@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Unsplash",
+    "slug": "unsplash",
+    "icon": "📷",
+    "description": "A website with high-quality, royalty-free images and photos"
+  },
+  {
+    "name": "Dribbble",
+    "slug": "dribbble",
+    "icon": "🎨",
+    "description": "A website for designers to showcase their work and find inspiration"
+  },
+  {
+    "name": "ArtStation",
+    "slug": "artstation",
+    "icon": "🖌️",
+    "description": "A website for artists to showcase their work and connect with other creatives"
+  },
+  {
+    "name": "Pixabay",
+    "slug": "pixabay",
+    "icon": "🌄",
+    "description": "A website with a large collection of free images, vectors, and illustrations"
+  },
+  {
+    "name": "Getty Images",
+    "slug": "gettyimages",
+    "icon": "📸",
+    "description": "A website with a vast collection of high-quality stock photos and videos"
+  },
+  {
+    "name": "Pexels",
+    "slug": "pexels",
+    "icon": "🌅",
+    "description": "A website with free stock photos and videos shared by talented creators."
+  },
+  {
+    "name": "Behance",
+    "slug": "behance",
+    "icon": "🎨",
+    "description": "A platform for creative professionals to showcase their work and find inspiration."
+  },
+  {
+    "name": "Shutterstock",
+    "slug": "shutterstock",
+    "icon": "📷",
+    "description": "A website with a large collection of stock photos, vectors, and illustrations for commercial use."
+  },
+  {
+    "name": "DeviantArt",
+    "slug": "deviantart",
+    "icon": "🖌️",
+    "description": "A community-driven website for artists to share their work and connect with other artists."
+  }
+]

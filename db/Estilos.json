@@ -1,0 +1,478 @@
+[
+  {
+    "name": "Digital Art",
+    "slug": "digital-art",
+    "icon": "🎨",
+    "description": "Art created using digital tools and techniques"
+  },
+  {
+    "name": "Surrealism",
+    "slug": "surrealism",
+    "icon": "👁️",
+    "description": "An artistic movement that seeks to explore the subconscious mind and challenge conventional notions of reality"
+  },
+  {
+    "name": "Concept Art",
+    "slug": "concept-art",
+    "icon": "💡",
+    "description": "Art created to develop and visualize ideas for films, video games, or other media"
+  },
+  {
+    "name": "Illustration",
+    "slug": "illustration",
+    "icon": "🖌️",
+    "description": "Visual representation or interpretation of a text or idea"
+  },
+  {
+    "name": "Character Design",
+    "slug": "character-design",
+    "icon": "👥",
+    "description": "Designing the appearance and personality of fictional characters for use in media"
+  },
+  {
+    "name": "Anime",
+    "slug": "anime",
+    "icon": "🐉",
+    "description": "A style of animation originating from Japan, characterized by colorful graphics, vibrant characters, and fantastical themes"
+  },
+  {
+    "name": "Realism",
+    "slug": "realism",
+    "icon": "🌳",
+    "description": "Art that seeks to accurately and realistically depict its subject matter"
+  },
+  {
+    "name": "Pop Art",
+    "slug": "pop-art",
+    "icon": "🌟",
+    "description": "An art movement that emerged in the 1950s, characterized by bold colors, recognizable imagery, and an emphasis on popular culture"
+  },
+  {
+    "name": "Steampunk",
+    "slug": "steampunk",
+    "icon": "⚙️",
+    "description": "A subgenre of science fiction or fantasy that incorporates retro-futuristic technology and aesthetics inspired by 19th-century steam-powered machinery"
+  },
+  {
+    "name": "Pixel Art",
+    "slug": "pixel-art",
+    "icon": "🎮",
+    "description": "Art that uses a low-resolution raster graphic design, where individual pixels represent the design elements"
+  },
+  {
+    "name": "Graffiti Art",
+    "slug": "graffiti-art",
+    "icon": "🎨",
+    "description": "Art created in public spaces using spray paint or other similar materials"
+  },
+  {
+    "name": "Fantasy Art",
+    "slug": "fantasy-art",
+    "icon": "🧙‍♂️",
+    "description": "Art that depicts imaginative or fantastical subject matter"
+  },
+  {
+    "name": "Futurism",
+    "slug": "futurism",
+    "icon": "🚀",
+    "description": "An artistic and social movement that originated in Italy in the early 20th century, characterized by an emphasis on the future, technology, and speed"
+  },
+  {
+    "name": "Art Deco",
+    "slug": "art-deco",
+    "icon": "🌆",
+    "description": "An influential design style that emerged in the 1920s and 1930s, characterized by geometric shapes, streamlined forms, and a sense of luxury and glamour"
+  },
+  {
+    "name": "Minimalism",
+    "slug": "minimalism",
+    "icon": "👌",
+    "description": "Art that uses a minimal number of design elements, often simple geometric shapes or monochromatic color schemes"
+  },
+  {
+    "name": "Street Art",
+    "slug": "street-art",
+    "icon": "🏙️",
+    "description": "Art created in public spaces that often incorporates social and political commentary"
+  },
+  {
+    "name": "Hyperrealism",
+    "slug": "hyperrealism",
+    "icon": "🎨",
+    "description": "An art movement characterized by highly realistic and detailed depictions of everyday objects or scenes."
+  },
+  {
+    "name": "Glitch Art",
+    "slug": "glitch-art",
+    "icon": "🎮",
+    "description": "An art form that involves manipulating electronic devices or software to create visual or audio glitches."
+  },
+  {
+    "name": "Photorealism",
+    "slug": "photorealism",
+    "icon": "📸",
+    "description": "An art movement that aims to reproduce the appearance of a photograph in a painting or other medium."
+  },
+  {
+    "name": "Calligraphy",
+    "slug": "calligraphy",
+    "icon": "✒️",
+    "description": "The art of producing decorative handwriting or lettering with a pen or brush."
+  },
+  {
+    "name": "Ink",
+    "slug": "ink",
+    "icon": "🖋️",
+    "description": "A liquid or paste used for writing or drawing, typically composed of a dye or pigment mixed with a solvent."
+  },
+  {
+    "name": "Woodcut Print",
+    "slug": "woodcut-print",
+    "icon": "🪵",
+    "description": "A printmaking technique where an image is carved into the surface of a block of wood, leaving the printing parts level with the surface while removing the non-printing parts."
+  },
+  {
+    "name": "Manga",
+    "slug": "manga",
+    "icon": "📖",
+    "description": "A style of Japanese comic books and graphic novels, typically aimed at adults as well as children."
+  },
+  {
+    "name": "Sketch",
+    "slug": "sketch",
+    "icon": "📝",
+    "description": "A rough or unfinished drawing or painting, often made to assist in the development of a more detailed work."
+  },
+  {
+    "name": "Drawing",
+    "slug": "drawing",
+    "icon": "🎨",
+    "description": "The art of making pictures or diagrams by hand, using pencils, pens, or other tools."
+  },
+  {
+    "name": "Doodle",
+    "slug": "doodle",
+    "icon": "🖊️",
+    "description": "A drawing or sketch made while a person's attention is otherwise occupied."
+  },
+  {
+    "name": "Dot Art",
+    "slug": "dot-art",
+    "icon": "🔴",
+    "description": "A technique of painting in which small, distinct dots of color are applied in patterns to form an image."
+  },
+  {
+    "name": "Stipple",
+    "slug": "stipple",
+    "icon": "⚫",
+    "description": "A technique of drawing or painting in which small dots or specks are used to create an image."
+  },
+  {
+    "name": "Anatomical Drawing",
+    "slug": "anatomical-drawing",
+    "icon": "🧑‍🔬",
+    "description": "A detailed and accurate representation of the human body or parts of the body."
+  },
+  {
+    "name": "Visual Novel",
+    "slug": "visual-novel",
+    "icon": "🎮",
+    "description": "A type of video game that features mostly static graphics, often with anime-inspired art styles, and a focus on storytelling and decision-making."
+  },
+  {
+    "name": "Graphic Novel",
+    "slug": "graphic-novel",
+    "icon": "📖",
+    "description": "A type of comic book, usually with a longer and more complex storyline and aimed at a more mature audience."
+  },
+  {
+    "name": "Hand-Drawn",
+    "slug": "hand-drawn",
+    "icon": "👋🎨",
+    "description": "Art created by hand, using various tools such as pencils, pens, markers, or brushes."
+  },
+  {
+    "name": "Graphite",
+    "slug": "graphite",
+    "icon": "✏️",
+    "description": "A soft, black mineral used for drawing and writing."
+  },
+  {
+    "name": "Colored Pencil",
+    "slug": "colored-pencil",
+    "icon": "🖍️",
+    "description": "A pencil that contains a colored pigment core, used for drawing and coloring."
+  },
+  {
+    "name": "Pastel Art",
+    "slug": "pastel-art",
+    "icon": "🎨",
+    "description": "Art made using pastels, which are sticks of pigmented chalk-like substance."
+  },
+  {
+    "name": "Blackboard",
+    "slug": "blackboard",
+    "icon": "🧑‍🏫",
+    "description": "A smooth, dark surface used for writing or drawing with chalk."
+  },
+  {
+    "name": "Splatter Paint",
+    "slug": "splatter-paint",
+    "icon": "🎨💥",
+    "description": "A painting technique where paint is dripped or splattered onto a surface to create a random pattern."
+  },
+  {
+    "name": "Paper-Marbling",
+    "slug": "paper-marbling",
+    "icon": "🎨🌊",
+    "description": "A decorative technique where paint is floated on a liquid surface and then transferred to paper or fabric."
+  },
+  {
+    "name": "Logo",
+    "slug": "logo",
+    "icon": "🔤",
+    "description": "A symbol or design used to represent a brand or organization."
+  },
+  {
+    "name": "Comic Book",
+    "slug": "comic-book",
+    "icon": "📚🎨",
+    "description": "A type of book that contains comics, or narrative artwork in the form of sequential panels."
+  },
+  {
+    "name": "Poster",
+    "slug": "poster",
+    "icon": "📰",
+    "description": "A large printed picture or notice used for advertising or decoration."
+  },
+  {
+    "name": "Kirigami",
+    "slug": "kirigami",
+    "icon": "✂️📜",
+    "description": "A variation of origami that involves cutting paper in addition to folding it."
+  },
+  {
+    "name": "Origami",
+    "slug": "origami",
+    "icon": "📜🦢",
+    "description": "The Japanese art of paper folding, where paper is folded into various shapes and designs without cutting or glue."
+  },
+  {
+    "name": "Frame",
+    "slug": "frame",
+    "icon": "🖼️",
+    "description": "A structure used to hold or display a picture or artwork."
+  },
+  {
+    "name": "Wall Decal",
+    "slug": "wall-decal",
+    "icon": "🖼️🏠",
+    "description": "A sticker or design that can be applied to a wall as decoration."
+  },
+  {
+    "name": "Banner",
+    "slug": "banner",
+    "icon": "🎉",
+    "description": "A long strip of fabric or paper with a message or design, often used for decoration or as a sign."
+  },
+  {
+    "name": "Papercutting",
+    "slug": "papercutting",
+    "icon": "✂️📜",
+    "description": "An art form where paper is cut into decorative shapes and designs using scissors or a knife."
+  },
+  {
+    "name": "Ice Carving",
+    "slug": "ice-carving",
+    "icon": "🧊🔪",
+    "description": "The process of carving ice into sculptures or decorative designs using specialized tools and techniques."
+  },
+  {
+    "name": "Linocut",
+    "slug": "linocut",
+    "icon": "🎨🔪",
+    "description": "A printmaking technique where a design is cut into a linoleum block and then printed onto paper or fabric."
+  },
+  {
+    "name": "Wood-Carving",
+    "slug": "wood-carving",
+    "icon": "🪵🔪",
+    "description": "The process of carving wood into sculptures or decorative designs using specialized tools and techniques."
+  },
+  {
+    "name": "Light Art",
+    "slug": "light-art",
+    "icon": "💡🎨",
+    "description": "An art form that uses light as the medium or as a subject to create sculptures, installations, or projections."
+  },
+  {
+    "name": "Bokeh",
+    "slug": "bokeh",
+    "icon": "📷🌟",
+    "description": "The aesthetic quality of the blur produced in the out-of-focus parts of an image, often used to create a dreamy or romantic effect."
+  },
+  {
+    "name": "Wildlife Photography",
+    "slug": "wildlife-photography",
+    "icon": "📷🦁",
+    "description": "The practice of taking photographs of animals in their natural habitats, often requiring specialized equipment and techniques."
+  },
+  {
+    "name": "Portrait",
+    "slug": "portrait",
+    "icon": "📷😃",
+    "description": "A representation of a person, usually a photograph or painting, that focuses on their face and expression."
+  },
+  {
+    "name": "Microscopic",
+    "slug": "microscopic",
+    "icon": "🔬",
+    "description": "Relating to things that are too small to be seen with the naked eye, often studied using microscopes or other magnifying devices."
+  },
+  {
+    "name": "Ultra-Wide Angle",
+    "slug": "ultra-wide-angle",
+    "icon": "📷🌎",
+    "description": "A lens or technique that allows for a wider field of view than the human eye, often used in landscape or architectural photography."
+  },
+  {
+    "name": "Depth of Field",
+    "slug": "depth-of-field",
+    "icon": "📷🔍",
+    "description": "The distance between the nearest and farthest objects in a photograph that appear acceptably sharp, often used creatively to create focus on a particular subject."
+  },
+  {
+    "name": "Closeup",
+    "slug": "closeup",
+    "icon": "📷🔍👁️",
+    "description": "A photograph or image taken at close range, often used to show fine details or textures."
+  },
+  {
+    "name": "Blur Effect",
+    "slug": "blur-effect",
+    "icon": "📷🌀",
+    "description": "A technique used in photography or film where the image is intentionally blurred or out-of-focus to create a specific effect or mood."
+  },
+  {
+    "name": "Lens Flare",
+    "slug": "lens-flare",
+    "icon": "📷🌞",
+    "description": "A visual phenomenon that occurs when a bright light source is near the edge of the frame in a photograph or film, often used creatively for artistic effect."
+  },
+  {
+    "name": "Punk",
+    "slug": "punk",
+    "icon": "🤘",
+    "description": "A genre of music that originated in the 1970s characterized by fast-paced."
+  },
+  {
+    "name": "Impressionism",
+    "slug": "impressionism",
+    "icon": "🌸",
+    "description": "A style that emphasizes the use of light and color to capture the fleeting effects of a moment."
+  },
+  {
+    "name": "Expressionism",
+    "slug": "expressionism",
+    "icon": "😡",
+    "description": "A style that emphasizes the artist's subjective emotional experience and seeks to evoke emotion in the viewer."
+  },
+  {
+    "name": "Cubism",
+    "slug": "cubism",
+    "icon": "🔳",
+    "description": "A style that emphasizes the use of geometric shapes to represent objects and images."
+  },
+  {
+    "name": "Abstract Expressionism",
+    "slug": "abstract-expressionism",
+    "icon": "🎨",
+    "description": "A style that emphasizes the spontaneous, automatic, or subconscious creation of art."
+  },
+  {
+    "name": "Fauvism",
+    "slug": "fauvism",
+    "icon": "🎨",
+    "description": "A style that emphasizes bold, vibrant colors and simplified forms to express emotion and feeling."
+  },
+
+  {
+    "name": "Art Nouveau",
+    "slug": "art-nouveau",
+    "icon": "🌿",
+    "description": "A style that emphasizes natural forms, flowing lines, and ornate decoration."
+  },
+  {
+    "name": "Post-Impressionism",
+    "slug": "post-impressionism",
+    "icon": "🌈",
+    "description": "A style that builds on the foundation of Impressionism, but incorporates more abstract and symbolic elements."
+  },
+  {
+    "name": "Baroque",
+    "slug": "baroque",
+    "icon": "🏰",
+    "description": "A style that emphasizes drama, movement, and elaborate ornamentation."
+  },
+  {
+    "name": "Rococo",
+    "slug": "rococo",
+    "icon": "🌸",
+    "description": "A style that emphasizes decorative ornamentation, pastel colors, and a light-hearted, playful attitude."
+  },
+  {
+    "name": "Neoclassicism",
+    "slug": "neoclassicism",
+    "icon": "🏛️",
+    "description": "A style that draws inspiration from classical antiquity, emphasizing order, simplicity, and rationality."
+  },
+  {
+    "name": "Romanticism",
+    "slug": "romanticism",
+    "icon": "💕",
+    "description": "A style that emphasizes emotion, imagination, nature, and the individual, often associated with the 18th and 19th centuries in Europe."
+  },
+  {
+    "name": "Gothic",
+    "slug": "gothic",
+    "icon": "🦇",
+    "description": "A style that emphasizes dark, dramatic, and ornate elements, often associated with medieval European architecture and art."
+  },
+  {
+    "name": "Modernism",
+    "slug": "modernism",
+    "icon": "🏢",
+    "description": "A style that emphasizes innovation, experimentation, and the rejection of traditional values."
+  },
+  {
+    "name": "Postmodernism",
+    "slug": "postmodernism",
+    "icon": "🆒",
+    "description": "A style that rejects the concept of a unified or objective truth, emphasizing the subjective experience and cultural diversity."
+  },
+  {
+    "name": "Conceptual Art",
+    "slug": "conceptual-art",
+    "icon": "💡",
+    "description": "A style that emphasizes the idea or concept behind the artwork, often employing non-traditional materials or techniques."
+  },
+  {
+    "name": "Abstract",
+    "slug": "abstract",
+    "icon": "🌀",
+    "description": "A style that emphasizes the use of color, shape, line, and form to create a non-representational or abstract image."
+  },
+  {
+    "name": "Naive Art",
+    "slug": "naive-art",
+    "icon": "🌞",
+    "description": "A style that emphasizes simple, childlike, or unsophisticated imagery, often expressing a sense of innocence or nostalgia."
+  },
+
+  {
+    "name": "Trompe-l'oeil",
+    "slug": "trompe-l-oeil",
+    "icon": "👁️",
+    "description": "A style that emphasizes realistic illusionism, often creating the impression of three-dimensional objects or space on a two-dimensional surface."
+  }
+]

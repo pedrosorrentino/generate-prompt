@@ -1,0 +1,515 @@
+[
+  {
+    "name": "Leonardo da Vinci",
+    "slug": "leonardo-da-vinci",
+    "icon": "🎨",
+    "description": "Renaissance artist, known for his paintings and inventions."
+  },
+  {
+    "name": "Vincent van Gogh",
+    "slug": "vincent-van-gogh",
+    "icon": "🌻",
+    "description": "Post-Impressionist painter, known for his expressive use of color."
+  },
+  {
+    "name": "Pablo Picasso",
+    "slug": "pablo-picasso",
+    "icon": "🎭",
+    "description": "Modernist artist, known for his pioneering role in Cubism."
+  },
+  {
+    "name": "Claude Monet",
+    "slug": "claude-monet",
+    "icon": "🌺",
+    "description": "Impressionist painter, known for his landscapes and use of light."
+  },
+  {
+    "name": "Salvador Dali",
+    "slug": "salvador-dali",
+    "icon": "🐙",
+    "description": "Surrealist artist, known for his bizarre and dreamlike imagery."
+  },
+  {
+    "name": "Georgia O'Keeffe",
+    "slug": "georgia-okeeffe",
+    "icon": "🌸",
+    "description": "American artist, known for her large-scale flower paintings."
+  },
+  {
+    "name": "Rembrandt",
+    "slug": "rembrandt",
+    "icon": "👴",
+    "description": "Dutch artist, known for his portraits and use of light and shadow."
+  },
+  {
+    "name": "Frida Kahlo",
+    "slug": "frida-kahlo",
+    "icon": "🌺",
+    "description": "Mexican artist, known for her self-portraits and use of symbolism."
+  },
+  {
+    "name": "Gustav Klimt",
+    "slug": "gustav-klimt",
+    "icon": "🌟",
+    "description": "Symbolist painter, known for his decorative and erotic art."
+  },
+  {
+    "name": "Johannes Vermeer",
+    "slug": "johannes-vermeer",
+    "icon": "👒",
+    "description": "Dutch artist, known for his genre scenes and use of light."
+  },
+  {
+    "name": "Edvard Munch",
+    "slug": "edvard-munch",
+    "icon": "🌊",
+    "description": "Expressionist painter, known for his iconic painting 'The Scream.'"
+  },
+  {
+    "name": "Michelangelo",
+    "slug": "michelangelo",
+    "icon": "🗿",
+    "description": "Renaissance artist, known for his sculptures and paintings in the Sistine Chapel."
+  },
+  {
+    "name": "Giotto di Bondone",
+    "slug": "giotto-di-bondone",
+    "icon": "🏰",
+    "description": "Medieval artist, known for his frescoes in the Scrovegni Chapel."
+  },
+  {
+    "name": "Edward Hopper",
+    "slug": "edward-hopper",
+    "icon": "🚪",
+    "description": "American artist, known for his realist paintings of urban and rural scenes."
+  },
+  {
+    "name": "Leonora Carrington",
+    "slug": "leonora-carrington",
+    "icon": "🐇",
+    "description": "Surrealist artist and writer, known for her dreamlike imagery and fantastical creatures."
+  },
+
+  {
+    "name": "Henri Matisse",
+    "slug": "henri-matisse",
+    "icon": "🎨",
+    "description": "Modernist painter, known for his use of color and his cut-out paper collages."
+  },
+  {
+    "name": "Ansel Adams",
+    "slug": "ansel-adams",
+    "icon": "🌲",
+    "description": "American photographer, known for his black-and-white images of the American West."
+  },
+  {
+    "name": "Jean-Michel Basquiat",
+    "slug": "jean-michel-basquiat",
+    "icon": "👑",
+    "description": "Neo-expressionist artist, known for his graffiti-inspired paintings."
+  },
+  {
+    "name": "John Singer Sargent",
+    "slug": "john-singer-sargent",
+    "icon": "🎩",
+    "description": "American portrait painter, known for his elegant and realistic portraits of society figures."
+  },
+  {
+    "name": "Paul Klee",
+    "slug": "paul-klee",
+    "icon": "🔶",
+    "description": "Swiss-German artist, known for his use of color and abstract forms."
+  },
+  {
+    "name": "David Hockney",
+    "slug": "david-hockney",
+    "icon": "🏊",
+    "description": "British painter and photographer, known for his bright, colorful landscapes and portraits."
+  },
+  {
+    "name": "René Magritte",
+    "slug": "rene-magritte",
+    "icon": "🎩",
+    "description": "Surrealist artist, known for his witty and thought-provoking images."
+  },
+  {
+    "name": "Katsushika Hokusai",
+    "slug": "katsushika-hokusai",
+    "icon": "🌊",
+    "description": "Japanese artist, known for his woodblock prints, including 'The Great Wave off Kanagawa.'"
+  },
+  {
+    "name": "Banksy",
+    "slug": "banksy",
+    "icon": "🎨",
+    "description": "British graffiti artist, political activist, and filmmaker, known for his anonymous street art and subversive social commentary."
+  },
+  {
+    "name": "Yayoi Kusama",
+    "slug": "yayoi-kusama",
+    "icon": "🔴",
+    "description": "Japanese artist and writer, known for her colorful polka dot and pumpkin-themed works, as well as her immersive Infinity Mirror Rooms."
+  },
+  {
+    "name": "JR",
+    "slug": "jr",
+    "icon": "👥",
+    "description": "French photographer and artist, known for his large-scale photo murals and public installations that explore social and political issues."
+  },
+  {
+    "name": "Kehinde Wiley",
+    "slug": "kehinde-wiley",
+    "icon": "👑",
+    "description": "American painter, known for his portraits of black people and people of color in heroic poses, often inspired by classical European art."
+  },
+  {
+    "name": "Takashi Murakami",
+    "slug": "takashi-murakami",
+    "icon": "🐙",
+    "description": "Japanese artist and designer, known for his colorful and whimsical style, which combines elements of traditional Japanese art with pop culture and contemporary art."
+  },
+  {
+    "name": "Julie Mehretu",
+    "slug": "julie-mehretu",
+    "icon": "🌀",
+    "description": "Ethiopian-American artist, known for her large-scale abstract paintings and drawings that combine elements of architecture, mapping, and graffiti."
+  },
+  {
+    "name": "Ai Weiwei",
+    "slug": "ai-weiwei",
+    "icon": "👁️",
+    "description": "Chinese artist and activist, known for his politically charged installations and sculptures."
+  },
+  {
+    "name": "Marina Abramović",
+    "slug": "marina-abramovic",
+    "icon": "🔪",
+    "description": "Serbian performance artist, known for her endurance-based works that explore the relationship between the performer and the audience."
+  },
+  {
+    "name": "Kara Walker",
+    "slug": "kara-walker",
+    "icon": "🖤",
+    "description": "American artist, known for her large-scale cut-paper silhouettes that explore issues of race, gender, and power in American history and culture."
+  },
+  {
+    "name": "Cai Guo-Qiang",
+    "slug": "cai-guo-qiang",
+    "icon": "🎆",
+    "description": "Chinese artist, known for his large-scale gunpowder drawings and fireworks displays, as well as his installations that explore cultural exchange and conflict."
+  },
+  {
+    "name": "Alan Lee",
+    "slug": "alan-lee",
+    "icon": "🧝",
+    "description": "Renowned English fantasy illustrator and conceptual designer."
+  },
+  {
+    "name": "Cyril Rolando",
+    "slug": "cyril-rolando",
+    "icon": "🎨",
+    "description": "French psychologist and digital artist who creates dreamlike illustrations."
+  },
+  {
+    "name": "David Mack",
+    "slug": "david-mack",
+    "icon": "🖌️",
+    "description": "American comic book artist and writer known for his distinctive style."
+  },
+  {
+    "name": "Donato Giancola",
+    "slug": "donato-giancola",
+    "icon": "🏰",
+    "description": "American fantasy artist who has created artwork for numerous book covers and films."
+  },
+  {
+    "name": "Greg Rutkowski",
+    "slug": "greg-rutkowski",
+    "icon": "🌄",
+    "description": "Polish digital artist known for his detailed and atmospheric landscapes."
+  },
+  {
+    "name": "Ismail Inceoglu",
+    "slug": "ismail-inceoglu",
+    "icon": "🎨",
+    "description": "Turkish digital artist who creates surreal and thought-provoking illustrations."
+  },
+  {
+    "name": "John Berkey",
+    "slug": "john-berkey",
+    "icon": "🚀",
+    "description": "American science fiction artist whose work has appeared in films such as Star Wars and Tron."
+  },
+  {
+    "name": "Michael Garmash",
+    "slug": "michael-garmash",
+    "icon": "🎨",
+    "description": "Ukrainian artist known for his beautiful impressionist-style paintings."
+  },
+  {
+    "name": "Peter Mohrbacher",
+    "slug": "peter-mohrbacher",
+    "icon": "👼",
+    "description": "American digital artist who creates stunning fantasy illustrations and character designs."
+  },
+  {
+    "name": "Sparth",
+    "slug": "sparth",
+    "icon": "🚀",
+    "description": "French artist and designer who has worked on video games such as Halo and Destiny."
+  },
+  {
+    "name": "Vincent Di Fate",
+    "slug": "vincent-di-fate",
+    "icon": "🚀",
+    "description": "American artist and illustrator known for his science fiction book covers."
+  },
+  {
+    "name": "Akihiko Yoshida",
+    "slug": "akihiko-yoshida",
+    "icon": "🎮",
+    "description": "Japanese video game artist who has worked on titles such as Final Fantasy and Bravely Default."
+  },
+  {
+    "name": "Artgerm",
+    "slug": "artgerm",
+    "icon": "🖌️",
+    "description": "Singaporean artist known for his dynamic and colorful comic book covers."
+  },
+  {
+    "name": "Charlie Bowater",
+    "slug": "charlie-bowater",
+    "icon": "🐺",
+    "description": "British illustrator known for her stunning fantasy artwork, including werewolves and other creatures."
+  },
+  {
+    "name": "Frank Frazetta",
+    "slug": "frank-frazetta",
+    "icon": "🗡️",
+    "description": "American fantasy artist known for his iconic paintings of Conan the Barbarian and other characters."
+  },
+  {
+    "name": "Ilya Kuvshinov",
+    "slug": "ilya-kuvshinov",
+    "icon": "👨‍🎨",
+    "description": "Russian illustrator and concept artist known for his digital portraits and character designs."
+  },
+  {
+    "name": "Joshua Middleton",
+    "slug": "joshua-middleton",
+    "icon": "🖌️",
+    "description": "American comic book artist and illustrator known for his work on titles such as Superman, Batman, and Wonder Woman."
+  },
+  {
+    "name": "Krenz Cushart",
+    "slug": "krenz-cushart",
+    "icon": "🎭",
+    "description": "Malaysian digital artist and illustrator known for his anime-style character designs."
+  },
+  {
+    "name": "Lois Van Baarle",
+    "slug": "lois-van-baarle",
+    "icon": "👩‍🎨",
+    "description": "Dutch digital artist and animator known for her colorful, whimsical illustrations and character designs."
+  },
+  {
+    "name": "Makoto Shinkai",
+    "slug": "makoto-shinkai",
+    "icon": "🎥",
+    "description": "Japanese animator, filmmaker, and manga artist known for his anime films and TV series, including Your Name and Weathering with You."
+  },
+  {
+    "name": "Rossdraws",
+    "slug": "rossdraws",
+    "icon": "🎨",
+    "description": "American digital artist and YouTuber known for his fantasy and character illustrations, tutorials, and speedpaint videos."
+  },
+  {
+    "name": "Wenjun Lin",
+    "slug": "wenjun-lin",
+    "icon": "🖌️",
+    "description": "Chinese artist and photographer known for her surreal, photo-manipulated portraits and self-portraits."
+  },
+  {
+    "name": "Anna Dittmann",
+    "slug": "anna-dittmann",
+    "icon": "👩‍🎨",
+    "description": "American digital artist and illustrator known for her ethereal, otherworldly portraits of women and animals."
+  },
+
+  {
+    "name": "Alphonse Mucha",
+    "slug": "alphonse-mucha",
+    "icon": "🎭",
+    "description": "Czech Art Nouveau painter and decorative artist known for his stylized, ornamental designs and posters."
+  },
+  {
+    "name": "Audrey Kawasaki",
+    "slug": "audrey-kawasaki",
+    "icon": "🖌️",
+    "description": "American artist and illustrator known for her delicate, sensual portraits of women and haunting, dreamlike imagery."
+  },
+  {
+    "name": "Hsiao-Ron Cheng",
+    "slug": "hsiao-ron-cheng",
+    "icon": "🎨",
+    "description": "Taiwanese illustrator and painter known for her ethereal and dreamlike portraits"
+  },
+  {
+    "name": "Agnes Cecile",
+    "slug": "agnes-cecile",
+    "icon": "👩‍🎨",
+    "description": "Italian artist and illustrator known for her loose and expressive watercolor portraits"
+  },
+
+  {
+    "name": "Boris Vallejo",
+    "slug": "boris-vallejo",
+    "icon": "🎨",
+    "description": "Peruvian-born American painter known for his fantasy and science fiction book covers"
+  },
+  {
+    "name": "Carne Griffiths",
+    "slug": "carne-griffiths",
+    "icon": "🖋️",
+    "description": "British artist and illustrator known for his intricate and detailed ink and tea drawings"
+  },
+  {
+    "name": "Conrad Roset",
+    "slug": "conrad-roset",
+    "icon": "🌹",
+    "description": "Spanish illustrator known for his sensuous and minimalist female figures."
+  },
+  {
+    "name": "JC Leyendecker",
+    "slug": "jc-leyendecker",
+    "icon": "🎩",
+    "description": "American illustrator known for his iconic magazine covers and advertisements from the early 1900s."
+  },
+  {
+    "name": "Joseph Lorusso",
+    "slug": "joseph-lorusso",
+    "icon": "🎨",
+    "description": "Contemporary American painter known for his evocative figurative works."
+  },
+  {
+    "name": "Jovana Rikalo",
+    "slug": "jovana-rikalo",
+    "icon": "📷",
+    "description": "Serbian photographer and digital artist known for her dreamy, surreal portraits."
+  },
+  {
+    "name": "Karol Bak",
+    "slug": "karol-bak",
+    "icon": "🌺",
+    "description": "Polish painter known for his romantic and atmospheric floral still lifes."
+  },
+  {
+    "name": "Marco Mazzoni",
+    "slug": "marco-mazzoni",
+    "icon": "🌿",
+    "description": "Italian illustrator known for his highly-detailed botanical drawings and paintings."
+  },
+  {
+    "name": "Miho Hirano",
+    "slug": "miho-hirano",
+    "icon": "🌸",
+    "description": "Japanese painter known for her ethereal and fantastical portraits of women and animals."
+  },
+  {
+    "name": "Rebeca Saray",
+    "slug": "rebeca-saray",
+    "icon": "📸",
+    "description": "Spanish photographer and digital artist known for her dark and mystical portraits and composites."
+  },
+  {
+    "name": "Robert McGinnis",
+    "slug": "robert-mcginnis",
+    "icon": "🔍",
+    "description": "American illustrator and painter known for his iconic movie posters and pulp fiction covers from the 1950s and 60s."
+  },
+  {
+    "name": "Russ Mills",
+    "slug": "russ-mills",
+    "icon": "🎭",
+    "description": "British illustrator and painter known for his expressive and theatrical mixed media portraits and compositions."
+  },
+  {
+    "name": "Tom Bagshaw",
+    "slug": "tom-bagshaw",
+    "icon": "🦢",
+    "description": "British illustrator and painter known for his elegant and surreal portraits of women and animals."
+  },
+  {
+    "name": "Tristan Eaton",
+    "slug": "tristan-eaton",
+    "icon": "🦄",
+    "description": "American street artist and graphic designer known for his colorful and whimsical murals and designs."
+  },
+  {
+    "name": "Ed Mell",
+    "slug": "ed-mell",
+    "icon": "🏜️",
+    "description": "American painter and sculptor known for his vivid and dramatic depictions of the Southwest landscape."
+  },
+  {
+    "name": "Jessica Rossier",
+    "slug": "jessica-rossier",
+    "icon": "🔮",
+    "description": "Swiss illustrator and painter known for her mystical and magical depictions of women and animals."
+  },
+  {
+    "name": "Hubert Robert",
+    "slug": "hubert-robert",
+    "icon": "🏛️",
+    "description": "18th-century French painter known for his landscape paintings, especially those featuring architecture."
+  },
+  {
+    "name": "Ian McQue",
+    "slug": "ian-mcque",
+    "icon": "🚀",
+    "description": "Scottish concept artist and illustrator known for his work on video games and films, particularly in the science fiction genre."
+  },
+  {
+    "name": "Marc Simonetti",
+    "slug": "marc-simonetti",
+    "icon": "🐉",
+    "description": "French concept artist and illustrator who has worked on book covers and movie posters, including for the Game of Thrones TV series."
+  },
+  {
+    "name": "Raphael Lacoste",
+    "slug": "raphael-lacoste",
+    "icon": "🌿",
+    "description": "French artist and art director who has worked on video games, including the Assassin's Creed series."
+  },
+  {
+    "name": "Bernie Wrightson",
+    "slug": "bernie-wrightson",
+    "icon": "🧟",
+    "description": "American illustrator and comic book artist known for his horror and suspense work, including co-creating the comic book character Swamp Thing."
+  },
+  {
+    "name": "H.R. Giger",
+    "slug": "hr-giger",
+    "icon": "👽",
+    "description": "Swiss artist known for his surreal and macabre imagery, including designing the titular creature in the film Alien."
+  },
+  {
+    "name": "Richard Corben",
+    "slug": "richard-corben",
+    "icon": "🦍",
+    "description": "American comic book artist and illustrator known for his science fiction and horror work, including creating the character Den for Heavy Metal magazine."
+  },
+  {
+    "name": "Wayne Barlowe",
+    "slug": "wayne-barlowe",
+    "icon": "🌎",
+    "description": "American science fiction and fantasy artist and author known for his work on books, television, and films, including creating creatures for the film Avatar."
+  },
+  {
+    "name": "Zdzislaw Beksinski",
+    "slug": "zdzislaw-beksinski",
+    "icon": "🌌",
+    "description": "Polish painter and photographer known for his surreal and post-apocalyptic imagery."
+  }
+]

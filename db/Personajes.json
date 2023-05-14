@@ -1,0 +1,1154 @@
+[
+  {
+    "name": "Mermaid",
+    "slug": "mermaid",
+    "icon": "🧜",
+    "description": "Half-human, half-fish creature of the sea"
+  },
+  {
+    "name": "Fairy",
+    "slug": "fairy",
+    "icon": "🧚",
+    "description": "Magical, small, and winged humanoid"
+  },
+  {
+    "name": "Wizard",
+    "slug": "wizard",
+    "icon": "🧙",
+    "description": "Magician or practitioner of magic"
+  },
+  {
+    "name": "Warrior",
+    "slug": "warrior",
+    "icon": "🗡️",
+    "description": "Skilled fighter or soldier"
+  },
+  {
+    "name": "Vampire",
+    "slug": "vampire",
+    "icon": "🧛",
+    "description": "Undead creature that feeds on blood"
+  },
+  {
+    "name": "Dragon",
+    "slug": "dragon",
+    "icon": "🐲",
+    "description": "Legendary reptilian creature with wings and breathes fire"
+  },
+  {
+    "name": "Goddess",
+    "slug": "goddess",
+    "icon": "👑",
+    "description": "Female deity or divine being"
+  },
+  {
+    "name": "Cyborg",
+    "slug": "cyborg",
+    "icon": "🤖",
+    "description": "Being with both organic and artificial body parts"
+  },
+  {
+    "name": "Robot",
+    "slug": "robot",
+    "icon": "🤖",
+    "description": "Artificially created machine designed to perform tasks"
+  },
+  {
+    "name": "Angel",
+    "slug": "angel",
+    "icon": "👼",
+    "description": "Celestial being or messenger of God"
+  },
+  {
+    "name": "Demon",
+    "slug": "demon",
+    "icon": "👿",
+    "description": "Malevolent supernatural being"
+  },
+  {
+    "name": "Alien",
+    "slug": "alien",
+    "icon": "👽",
+    "description": "Extraterrestrial being from another planet"
+  },
+  {
+    "name": "Ghost",
+    "slug": "ghost",
+    "icon": "👻",
+    "description": "Spirit of a dead person that haunts a place"
+  },
+  {
+    "name": "Ninja",
+    "slug": "ninja",
+    "icon": "🥷",
+    "description": "Stealthy and skilled mercenary warrior"
+  },
+  {
+    "name": "Samurai",
+    "slug": "samurai",
+    "icon": "🗡️",
+    "description": "Feudal Japanese warrior with a code of honor"
+  },
+  {
+    "name": "Pirate",
+    "slug": "pirate",
+    "icon": "🏴‍☠️",
+    "description": "Criminal who robs and raids at sea"
+  },
+  {
+    "name": "Knight",
+    "slug": "knight",
+    "icon": "🛡️",
+    "description": "Medieval warrior of high rank"
+  },
+  {
+    "name": "Bard",
+    "slug": "bard",
+    "icon": "🎼",
+    "description": "Poet, storyteller, or musician"
+  },
+  {
+    "name": "Werewolf",
+    "slug": "werewolf",
+    "icon": "🐺",
+    "description": "Human who can transform into a wolf or wolf-like creature"
+  },
+  {
+    "name": "Zombie",
+    "slug": "zombie",
+    "icon": "💀",
+    "description": "Undead creature that feeds on the flesh of the living"
+  },
+  {
+    "name": "Giant",
+    "slug": "giant",
+    "icon": "🗿",
+    "description": "Enormous humanoid creature with incredible strength"
+  },
+  {
+    "name": "Golem",
+    "slug": "golem",
+    "icon": "🤖",
+    "description": "Animated creature made of inanimate matter, often clay or stone"
+  },
+  {
+    "name": "Sphinx",
+    "slug": "sphinx",
+    "icon": "🦁",
+    "description": "Mythical creature with the body of a lion and the head of a human, often depicted as wise and enigmatic"
+  },
+  {
+    "name": "Chimera",
+    "slug": "chimera",
+    "icon": "🐲",
+    "description": "Creature from Greek mythology with the body of a lion, the head of a goat, and the tail of a serpent"
+  },
+  {
+    "name": "Medusa",
+    "slug": "medusa",
+    "icon": "🐍",
+    "description": "Gorgon from Greek mythology with snakes for hair and the ability to turn people to stone with her gaze"
+  },
+  {
+    "name": "Minotaur",
+    "slug": "minotaur",
+    "icon": "🐃",
+    "description": "Mythical creature with the head of a bull and the body of a man, often depicted as a fearsome warrior"
+  },
+  {
+    "name": "Harpy",
+    "slug": "harpy",
+    "icon": "🦅",
+    "description": "Mythical creature with the body of a bird and the head of a woman, often depicted as a messenger of the gods"
+  },
+  {
+    "name": "Kraken",
+    "slug": "kraken",
+    "icon": "🐙",
+    "description": "Legendary sea monster with tentacles that can reach great lengths"
+  },
+  {
+    "name": "Cthulhu",
+    "slug": "cthulhu",
+    "icon": "🐙",
+    "description": "Great Old One from the works of H.P. Lovecraft, often depicted as a monstrous squid-like being"
+  },
+  {
+    "name": "Gorgon",
+    "slug": "gorgon",
+    "icon": "🐍",
+    "description": "Creature from Greek mythology with snakes for hair and the ability to turn people to stone with her gaze"
+  },
+  {
+    "name": "Hydra",
+    "slug": "hydra",
+    "icon": "🐉",
+    "description": "Mythical creature with multiple heads, often depicted as regenerating heads when they are cut off"
+  },
+  {
+    "name": "Banshee",
+    "slug": "banshee",
+    "icon": "👻",
+    "description": "Female spirit from Irish folklore that is said to wail and shriek, often seen as an omen of death"
+  },
+  {
+    "name": "Satyr",
+    "slug": "satyr",
+    "icon": "🐐",
+    "description": "Mythical creature with the body of a man and the horns and legs of a goat, often associated with drunkenness and lust"
+  },
+  {
+    "name": "Cyclops",
+    "slug": "cyclops",
+    "icon": "👁️",
+    "description": "One-eyed giant from Greek mythology"
+  },
+  {
+    "name": "Dwarf",
+    "slug": "dwarf",
+    "icon": "🧝‍♂️",
+    "description": "Short, stout humanoids known for their skill in crafting and mining."
+  },
+  {
+    "name": "Elf",
+    "slug": "elf",
+    "icon": "🧝‍♀️",
+    "description": "Elegant and graceful beings with pointed ears and a deep connection to nature."
+  },
+  {
+    "name": "Centaur",
+    "slug": "centaur",
+    "icon": "🐎",
+    "description": "Mythical creatures with the upper body of a human and the lower body of a horse."
+  },
+  {
+    "name": "Manticore",
+    "slug": "manticore",
+    "icon": "🦁",
+    "description": "Legendary creature with the body of a lion, wings of a bat, and a tail of venomous spines."
+  },
+  {
+    "name": "Frost Giant",
+    "slug": "frost-giant",
+    "icon": "🧊",
+    "description": "Enormous humanoid creatures with icy skin and a fondness for cold climates."
+  },
+  {
+    "name": "Sandworm",
+    "slug": "sandworm",
+    "icon": "🐛",
+    "description": "Giant worm-like creatures that burrow through sand and earth."
+  },
+  {
+    "name": "Kelpie",
+    "slug": "kelpie",
+    "icon": "🐴",
+    "description": "Water spirits that take the form of horses and lure unsuspecting travelers to their doom."
+  },
+  {
+    "name": "Thunderbird",
+    "slug": "thunderbird",
+    "icon": "⚡️",
+    "description": "Massive birds with lightning powers in Native American mythology."
+  },
+  {
+    "name": "Leviathan",
+    "slug": "leviathan",
+    "icon": "🐋",
+    "description": "Gigantic sea monsters in Jewish mythology, often associated with chaos and destruction."
+  },
+  {
+    "name": "Thundercats",
+    "slug": "thundercats",
+    "icon": "🐱",
+    "description": "Feline-humanoid warriors from the planet Thundera, with superhuman strength and agility."
+  },
+  {
+    "name": "Gargantua",
+    "slug": "gargantua",
+    "icon": "👹",
+    "description": "Huge and monstrous beings, often associated with chaos and destruction."
+  },
+  {
+    "name": "Ogre",
+    "slug": "ogre",
+    "icon": "👹",
+    "description": "Large, brutish humanoid creatures known for their strength and love of human flesh."
+  },
+  {
+    "name": "Goblin",
+    "slug": "goblin",
+    "icon": "👺",
+    "description": "Small, mischievous creatures known for causing trouble and mayhem."
+  },
+  {
+    "name": "Halfling",
+    "slug": "halfling",
+    "icon": "🧝‍♂️",
+    "description": "Small humanoids, resembling humans but half their size, with a fondness for comfort and good food."
+  },
+  {
+    "name": "Harlequin",
+    "slug": "harlequin",
+    "icon": "🤡",
+    "description": "Colorful and mischievous characters from Italian commedia dell'arte, known for their acrobatics and pranks."
+  },
+  {
+    "name": "Jinn",
+    "slug": "jinn",
+    "icon": "🧞‍♂️",
+    "description": "Supernatural beings from Islamic mythology, capable of granting wishes and possessing humans."
+  },
+  {
+    "name": "Kitsune",
+    "slug": "kitsune",
+    "icon": "🦊",
+    "description": "Fox spirits from Japanese folklore, known for their shape-shifting abilities and trickster nature."
+  },
+  {
+    "name": "Lich",
+    "slug": "lich",
+    "icon": "💀",
+    "description": "Undead spellcasters, typically depicted as skeletons or corpses with powerful magical abilities."
+  },
+  {
+    "name": "Mummy",
+    "slug": "mummy",
+    "icon": "👻",
+    "description": "A preserved corpse from ancient Egypt, believed to have been prepared with the aim of ensuring the person's eternal life."
+  },
+  {
+    "name": "Naga",
+    "slug": "naga",
+    "icon": "🐍",
+    "description": "A serpentine creature from Hindu and Buddhist mythology, often depicted as a half-human, half-snake hybrid."
+  },
+  {
+    "name": "Oni",
+    "slug": "oni",
+    "icon": "👹",
+    "description": "A demonic creature from Japanese folklore, often depicted as a giant with horns and a club."
+  },
+  {
+    "name": "Pixie",
+    "slug": "pixie",
+    "icon": "🧚‍♀️",
+    "description": "A tiny, mischievous fairy from English folklore, known for their playful nature and ability to fly."
+  },
+  {
+    "name": "Siren",
+    "slug": "siren",
+    "icon": "🧜‍♀️",
+    "description": "A mythical creature from Greek mythology, often depicted as a half-woman, half-bird hybrid who lured sailors to their doom with their enchanting songs."
+  },
+  {
+    "name": "Sylph",
+    "slug": "sylph",
+    "icon": "💨",
+    "description": "A mythical creature from European folklore, often depicted as an air spirit or a beautiful, ethereal woman."
+  },
+  {
+    "name": "Treant",
+    "slug": "treant",
+    "icon": "🌳",
+    "description": "A tree-like creature from European mythology, often depicted as a living, sentient tree that protects forests."
+  },
+  {
+    "name": "Unicorn",
+    "slug": "unicorn",
+    "icon": "🦄",
+    "description": "A legendary horse-like creature with a single horn on its forehead, often associated with purity and grace."
+  },
+  {
+    "name": "Wendigo",
+    "slug": "wendigo",
+    "icon": "👹",
+    "description": "A malevolent spirit from Algonquian folklore, often depicted as a skeletal, antlered creature that preys on humans."
+  },
+  {
+    "name": "Wraith",
+    "slug": "wraith",
+    "icon": "👻",
+    "description": "A ghostly apparition or spirit from various mythologies, often depicted as a spectral figure or a vengeful entity."
+  },
+  {
+    "name": "Xenomorph",
+    "slug": "xenomorph",
+    "icon": "👽",
+    "description": "An extraterrestrial creature from the Alien franchise, known for its aggressive behavior and deadly abilities."
+  },
+  {
+    "name": "Yokai",
+    "slug": "yokai",
+    "icon": "👹",
+    "description": "A class of supernatural creatures from Japanese folklore, ranging from mischievous spirits to malevolent demons."
+  },
+  {
+    "name": "Zephyr",
+    "slug": "zephyr",
+    "icon": "💨",
+    "description": "A gentle, west wind from Greek mythology, often associated with the arrival of spring and the renewal of life."
+  },
+  {
+    "name": "Zombie Dragon",
+    "slug": "zombie-dragon",
+    "icon": "🐲💀",
+    "description": "A dragon that has been reanimated as a zombie, often depicted as a fearsome, undead beast."
+  },
+  {
+    "name": "Abomination",
+    "slug": "abomination",
+    "icon": "👹",
+    "description": "A monster or creature that is considered to be unnatural or repugnant, often the result of unnatural experimentation or corruption."
+  },
+  {
+    "name": "Aasimar",
+    "slug": "aasimar",
+    "icon": "😇",
+    "description": "A celestial being in human form, often associated with goodness and purity."
+  },
+  {
+    "name": "Arachne",
+    "slug": "arachne",
+    "icon": "🕸️",
+    "description": "A half-spider, half-human creature known for their weaving skills and ability to spin webs."
+  },
+  {
+    "name": "Cambion",
+    "slug": "cambion",
+    "icon": "😈",
+    "description": "The offspring of a demon and a human, possessing both demonic and human traits."
+  },
+  {
+    "name": "Cerberus",
+    "slug": "cerberus",
+    "icon": "🐕",
+    "description": "A three-headed dog from Greek mythology, known as the guardian of the underworld."
+  },
+  {
+    "name": "Changeling",
+    "slug": "changeling",
+    "icon": "🧑‍🦰",
+    "description": "A creature with the ability to shapeshift, often associated with faeries or other supernatural beings."
+  },
+  {
+    "name": "Djinn",
+    "slug": "djinn",
+    "icon": "🧞",
+    "description": "A supernatural creature in Islamic mythology, often depicted as a powerful spirit or genie."
+  },
+  {
+    "name": "Dryad",
+    "slug": "dryad",
+    "icon": "🌳",
+    "description": "A tree spirit from Greek mythology, often associated with forests and nature."
+  },
+  {
+    "name": "Gargoyle",
+    "slug": "gargoyle",
+    "icon": "🦇",
+    "description": "A stone creature often depicted as a grotesque statue used to ward off evil spirits, originating from French architecture."
+  },
+  {
+    "name": "Gnoll",
+    "slug": "gnoll",
+    "icon": "🐺",
+    "description": "A humanoid hyena-like creature often depicted as savage and brutish, originating from Dungeons & Dragons."
+  },
+  {
+    "name": "Grim Reaper",
+    "slug": "grim-reaper",
+    "icon": "💀",
+    "description": "A personification of death often depicted as a cloaked skeleton carrying a scythe."
+  },
+  {
+    "name": "Half-Demon",
+    "slug": "half-demon",
+    "icon": "👹",
+    "description": "A creature that is half human and half demon, often possessing supernatural powers and abilities."
+  },
+  {
+    "name": "Hobgoblin",
+    "slug": "hobgoblin",
+    "icon": "👺",
+    "description": "A mischievous or malevolent goblin-like creature from English folklore."
+  },
+  {
+    "name": "Ifrit",
+    "slug": "ifrit",
+    "icon": "🔥",
+    "description": "A powerful supernatural creature from Islamic mythology, often associated with fire."
+  },
+  {
+    "name": "Incubus",
+    "slug": "incubus",
+    "icon": "👹",
+    "description": "A male demon in folklore that is said to have sexual intercourse with sleeping women."
+  },
+  {
+    "name": "Kappa",
+    "slug": "kappa",
+    "icon": "🐢",
+    "description": "A water imp or river spirit from Japanese folklore, often depicted as a humanoid turtle with a water-filled dish on its head."
+  },
+  {
+    "name": "Lizardfolk",
+    "slug": "lizardfolk",
+    "icon": "🦎",
+    "description": "A reptilian humanoid often depicted as a tribal and primitive race, originating from Dungeons & Dragons."
+  },
+  {
+    "name": "Mind Flayer",
+    "slug": "mind-flayer",
+    "icon": "🧠",
+    "description": "A humanoid creature with tentacles on its face, known for its psionic powers and ability to consume the brains of its victims, originating from Dungeons & Dragons."
+  },
+  {
+    "name": "Mongrelfolk",
+    "slug": "mongrelfolk",
+    "icon": "🧬",
+    "description": "A creature made up of parts from different animals, often depicted as a freakish and unnatural being, originating from Dungeons & Dragons."
+  },
+  {
+    "name": "Myconid",
+    "slug": "myconid",
+    "icon": "🍄",
+    "description": "A mushroom creature often associated with nature and forests, originating from Dungeons & Dragons."
+  },
+  {
+    "name": "Orc",
+    "slug": "orc",
+    "icon": "👹",
+    "description": "A brutish humanoid creature, often depicted as fierce and savage."
+  },
+  {
+    "name": "Sahuagin",
+    "slug": "sahuagin",
+    "icon": "🦈",
+    "description": "An aquatic humanoid creature, often depicted as predatory and territorial."
+  },
+  {
+    "name": "Shapeshifter",
+    "slug": "shapeshifter",
+    "icon": "🦹‍♂️",
+    "description": "A creature or character with the ability to transform into other forms or shapes."
+  },
+  {
+    "name": "Spectre",
+    "slug": "spectre",
+    "icon": "👻",
+    "description": "A ghostly or otherworldly entity, often depicted as haunting or malevolent."
+  },
+  {
+    "name": "Tengu",
+    "slug": "tengu",
+    "icon": "🦅",
+    "description": "A legendary creature from Japanese folklore, often depicted as a bird-like goblin or demon."
+  },
+  {
+    "name": "Titan",
+    "slug": "titan",
+    "icon": "🗿",
+    "description": "A giant and powerful humanoid creature from Greek mythology, often depicted as a deity or force of nature."
+  },
+  {
+    "name": "Witch",
+    "slug": "witch",
+    "icon": "🧙‍♀️",
+    "description": "A female practitioner of magic, often depicted as cunning and mysterious."
+  },
+  {
+    "name": "Yeti",
+    "slug": "yeti",
+    "icon": "🏔️",
+    "description": "A large and hairy humanoid creature, often depicted as living in the mountains and snow."
+  },
+  {
+    "name": "Yuan-Ti",
+    "slug": "yuan-ti",
+    "icon": "🐍",
+    "description": "A race of serpent-like humanoid creatures from Dungeons & Dragons and other fantasy settings."
+  },
+  {
+    "name": "Archer",
+    "slug": "archer",
+    "icon": "🏹",
+    "description": "A skilled marksman or woman who uses a bow and arrows for ranged combat."
+  },
+  {
+    "name": "Barbarian",
+    "slug": "barbarian",
+    "icon": "🗡️",
+    "description": "A warrior or fighter who is perceived as uncivilized or primitive, often depicted as fierce and wild."
+  },
+  {
+    "name": "Beastmaster",
+    "slug": "beastmaster",
+    "icon": "🐾",
+    "description": "A character or class with the ability to control or bond with animals, often depicted as a hunter or ranger."
+  },
+  {
+    "name": "Cleric",
+    "slug": "cleric",
+    "icon": "🙏",
+    "description": "A character or class with divine or religious powers, often depicted as a healer or holy warrior."
+  },
+  {
+    "name": "Druid",
+    "slug": "druid",
+    "icon": "🍃",
+    "description": "A character or class with a connection to nature and the elements, often depicted as a shaman or shape-shifter."
+  },
+  {
+    "name": "Enchanter",
+    "slug": "enchanter",
+    "icon": "✨",
+    "description": "A character or class with the ability to cast spells of charm, illusion, or mind control, often depicted as a wizard or sorcerer."
+  },
+  {
+    "name": "Executioner",
+    "slug": "executioner",
+    "icon": "⚔️",
+    "description": "An official or professional who carries out death sentences or other forms of punishment, often depicted as ruthless or cruel."
+  },
+  {
+    "name": "Gladiator",
+    "slug": "gladiator",
+    "icon": "🗡️",
+    "description": "A skilled warrior who fights for entertainment or glory in arenas or battles."
+  },
+  {
+    "name": "Gunslinger",
+    "slug": "gunslinger",
+    "icon": "🔫",
+    "description": "A quick and deadly marksman who wields firearms with expertise and precision."
+  },
+  {
+    "name": "Healer",
+    "slug": "healer",
+    "icon": "🏥",
+    "description": "A character that can heal or restore health to others."
+  },
+  {
+    "name": "Hunter",
+    "slug": "hunter",
+    "icon": "🏹",
+    "description": "A character that specializes in hunting and tracking prey."
+  },
+  {
+    "name": "Illusionist",
+    "slug": "illusionist",
+    "icon": "🎭",
+    "description": "A character that can create illusions or deceive others with their magic."
+  },
+  {
+    "name": "Infernal",
+    "slug": "infernal",
+    "icon": "🔥",
+    "description": "A character that draws power from hellish or demonic sources."
+  },
+  {
+    "name": "Inventor",
+    "slug": "inventor",
+    "icon": "🛠️",
+    "description": "A character that can create or modify technology and machinery."
+  },
+  {
+    "name": "Jester",
+    "slug": "jester",
+    "icon": "🃏",
+    "description": "A character that uses humor and trickery to defeat their enemies."
+  },
+  {
+    "name": "Knight Errant",
+    "slug": "knight-errant",
+    "icon": "🗡️",
+    "description": "A wandering knight that seeks adventure and quests to prove their worth."
+  },
+  {
+    "name": "Mage Hunter",
+    "slug": "mage-hunter",
+    "icon": "🔮",
+    "description": "A character that specializes in tracking and defeating enemy spellcasters."
+  },
+  {
+    "name": "Marauder",
+    "slug": "marauder",
+    "icon": "🗡️",
+    "description": "A character that attacks and pillages settlements and enemy strongholds."
+  },
+  {
+    "name": "Necromancer",
+    "slug": "necromancer",
+    "icon": "💀",
+    "description": "A character that can raise and control undead minions to do their bidding."
+  },
+  {
+    "name": "Ninja Assassin",
+    "slug": "ninja-assassin",
+    "icon": "🗡️",
+    "description": "A stealthy and deadly character that specializes in assassination and sabotage."
+  },
+  {
+    "name": "Paladin",
+    "slug": "paladin",
+    "icon": "⚔️",
+    "description": "A holy warrior that fights for righteousness and defends the weak."
+  },
+  {
+    "name": "Psionicist",
+    "slug": "psionicist",
+    "icon": "🧠",
+    "description": "A character that can use psychic powers to manipulate the minds of others."
+  },
+  {
+    "name": "Ranger",
+    "slug": "ranger",
+    "icon": "🏞️",
+    "description": "A character that excels in outdoor survival, tracking, and archery."
+  },
+  {
+    "name": "Rogue",
+    "slug": "rogue",
+    "icon": "🗝️",
+    "description": "A character that specializes in thievery, deception, and infiltration."
+  },
+  {
+    "name": "Runemaster",
+    "slug": "runemaster",
+    "icon": "🔢",
+    "description": "A character that can create and inscribe magical runes to enhance their abilities."
+  },
+  {
+    "name": "Savage",
+    "slug": "savage",
+    "icon": "🗡️",
+    "description": "A wild and ferocious character that embraces their primal"
+  },
+  {
+    "name": "Scout",
+    "slug": "scout",
+    "icon": "🔍",
+    "description": "A skilled tracker and reconnaissance expert."
+  },
+  {
+    "name": "Shaman",
+    "slug": "shaman",
+    "icon": "🌀",
+    "description": "A spiritual leader and healer in touch with the natural world."
+  },
+  {
+    "name": "Sniper",
+    "slug": "sniper",
+    "icon": "🎯",
+    "description": "A highly skilled marksman trained in long-range combat."
+  },
+  {
+    "name": "Soldier",
+    "slug": "soldier",
+    "icon": "🎖️",
+    "description": "A member of a professional military force."
+  },
+  {
+    "name": "Sorcerer",
+    "slug": "sorcerer",
+    "icon": "🧙",
+    "description": "A magic user with innate magical abilities."
+  },
+  {
+    "name": "Spellblade",
+    "slug": "spellblade",
+    "icon": "⚔️",
+    "description": "A warrior skilled in both magic and combat."
+  },
+  {
+    "name": "Spymaster",
+    "slug": "spymaster",
+    "icon": "🕵️‍♀️",
+    "description": "A master of espionage and covert operations."
+  },
+  {
+    "name": "Swashbuckler",
+    "slug": "swashbuckler",
+    "icon": "🗡️",
+    "description": "A flamboyant and skilled swordsman."
+  },
+  {
+    "name": "Templar",
+    "slug": "templar",
+    "icon": "⚔️",
+    "description": "A holy warrior dedicated to defending their faith."
+  },
+  {
+    "name": "Thief",
+    "slug": "thief",
+    "icon": "🔒",
+    "description": "A skilled infiltrator and thief."
+  },
+  {
+    "name": "Time Traveler",
+    "slug": "time-traveler",
+    "icon": "⏰",
+    "description": "A person who can travel through time."
+  },
+  {
+    "name": "Tracker",
+    "slug": "tracker",
+    "icon": "🐾",
+    "description": "A person skilled in tracking and hunting."
+  },
+  {
+    "name": "Trickster",
+    "slug": "trickster",
+    "icon": "🃏",
+    "description": "A person who uses cunning and deception to achieve their goals."
+  },
+  {
+    "name": "Vampire Hunter",
+    "slug": "vampire-hunter",
+    "icon": "🦇",
+    "description": "A person dedicated to hunting and destroying vampires."
+  },
+  {
+    "name": "Warlock",
+    "slug": "warlock",
+    "icon": "🔮",
+    "description": "A magic user who gains power through pacts with supernatural beings."
+  },
+  {
+    "name": "Warrior Monk",
+    "slug": "warrior-monk",
+    "icon": "⚔️",
+    "description": "A warrior trained in both martial and spiritual disciplines."
+  },
+  {
+    "name": "Witch Doctor",
+    "slug": "witch-doctor",
+    "icon": "🧙‍♀️",
+    "description": "A healer and spiritual leader who uses magic and herbs to cure ailments."
+  },
+  {
+    "name": "Wizard Hunter",
+    "slug": "wizard-hunter",
+    "icon": "🔮",
+    "description": "A person dedicated to hunting and neutralizing rogue wizards."
+  },
+  {
+    "name": "Zealot",
+    "slug": "zealot",
+    "icon": "🔥",
+    "description": "A fanatical believer in a cause or religion."
+  },
+  {
+    "name": "Zodiac Master",
+    "slug": "zodiac-master",
+    "icon": "♒",
+    "description": "A master of the zodiac, able to manipulate the stars and the elements they control."
+  },
+  {
+    "name": "Arcanist",
+    "slug": "arcanist",
+    "icon": "🧙‍♂️",
+    "description": "A master of the arcane arts, able to manipulate magical energy to achieve their goals."
+  },
+  {
+    "name": "Demon Hunter",
+    "slug": "demon-hunter",
+    "icon": "👹",
+    "description": "A warrior trained to hunt and kill demons."
+  },
+  {
+    "name": "Dragon Slayer",
+    "slug": "dragon-slayer",
+    "icon": "🐉",
+    "description": "A warrior who specializes in slaying dragons."
+  },
+  {
+    "name": "Elementalist",
+    "slug": "elementalist",
+    "icon": "🌬️",
+    "description": "A mage who specializes in the manipulation of the elements."
+  },
+  {
+    "name": "Basilisk",
+    "slug": "basilisk",
+    "icon": "🐍",
+    "description": "A legendary reptile with the power to turn people to stone with its gaze."
+  },
+  {
+    "name": "Cockatrice",
+    "slug": "cockatrice",
+    "icon": "🐓",
+    "description": "A creature with the head and feet of a rooster and the body of a serpent."
+  },
+  {
+    "name": "Cryptid",
+    "slug": "cryptid",
+    "icon": "👻",
+    "description": "An animal or creature whose existence is disputed or unsubstantiated, often the subject of folklore or legend."
+  },
+  {
+    "name": "Darkling",
+    "slug": "darkling",
+    "icon": "🌑",
+    "description": "A creature of darkness and shadow, often associated with evil."
+  },
+  {
+    "name": "Dracolich",
+    "slug": "dracolich",
+    "icon": "💀",
+    "description": "A powerful undead dragon, animated by dark magic."
+  },
+  {
+    "name": "Elemental",
+    "slug": "elemental",
+    "icon": "🌪️",
+    "description": "A spirit of the elements, with control over one or more of the classical elements."
+  },
+  {
+    "name": "Enchantress",
+    "slug": "enchantress",
+    "icon": "👸",
+    "description": "A female magic user who uses spells to charm and enthrall."
+  },
+  {
+    "name": "Fenrir",
+    "slug": "fenrir",
+    "icon": "🐺",
+    "description": "A monstrous wolf from Norse mythology, foretold to kill the god Odin during Ragnarok."
+  },
+  {
+    "name": "Gryphon",
+    "slug": "gryphon",
+    "icon": "🦅",
+    "description": "A mythical creature with the head and wings of an eagle and the body of a lion."
+  },
+  {
+    "name": "Harpie",
+    "slug": "harpie",
+    "icon": "🦅",
+    "description": "A female monster in Greek mythology with the body of a bird and the face of a woman."
+  },
+  {
+    "name": "Imp",
+    "slug": "imp",
+    "icon": "👹",
+    "description": "A small, mischievous demon often associated with trickery and temptation."
+  },
+  {
+    "name": "Jotun",
+    "slug": "jotun",
+    "icon": "🗻",
+    "description": "A giant from Norse mythology known for their strength and endurance."
+  },
+  {
+    "name": "Lindworm",
+    "slug": "lindworm",
+    "icon": "🐲",
+    "description": "A wingless dragon with two legs, often depicted as serpent-like."
+  },
+  {
+    "name": "Merfolk",
+    "slug": "merfolk",
+    "icon": "🧜",
+    "description": "A humanoid creature with a fish tail instead of legs, often found in underwater environments."
+  },
+  {
+    "name": "Nephilim",
+    "slug": "nephilim",
+    "icon": "👼🏻",
+    "description": "A hybrid creature born from the union of angels and humans, known for their exceptional abilities."
+  },
+  {
+    "name": "Phoenix",
+    "slug": "phoenix",
+    "icon": "🔥",
+    "description": "A mythical bird that is consumed by fire and then reborn from its ashes, symbolizing renewal and rebirth."
+  },
+  {
+    "name": "Roc",
+    "slug": "roc",
+    "icon": "🦅",
+    "description": "A giant bird of prey in Middle Eastern mythology, said to be able to carry off elephants."
+  },
+  {
+    "name": "Sasquatch",
+    "slug": "sasquatch",
+    "icon": "🦍",
+    "description": "A large, hairy, humanoid creature believed by some to inhabit remote forests in North America."
+  },
+  {
+    "name": "Spriggan",
+    "slug": "spriggan",
+    "icon": "🌳",
+    "description": "A small, mischievous fairy or spirit in Cornish folklore, often associated with trees and woodland."
+  },
+  {
+    "name": "Troll",
+    "slug": "troll",
+    "icon": "👹",
+    "description": "A large, ugly, humanoid creature from Scandinavian folklore, known for their strength and regenerative abilities."
+  },
+  {
+    "name": "Ursine",
+    "slug": "ursine",
+    "icon": "🐻",
+    "description": "Relating to or resembling bears, often used to describe characters with bear-like qualities or abilities."
+  },
+  {
+    "name": "Valkyrie",
+    "slug": "valkyrie",
+    "icon": "🗡️",
+    "description": "A female warrior in Norse mythology who chooses those who die in battle and brings them to the afterlife."
+  },
+  {
+    "name": "Vargr",
+    "slug": "vargr",
+    "icon": "🐺",
+    "description": "A wolf-like creature from Norse mythology, often associated with warriors and the god Odin."
+  },
+  {
+    "name": "Will-o'-the-wisp",
+    "slug": "will-o-the-wisp",
+    "icon": "🔥",
+    "description": "A mysterious light seen at night, often over marshy ground, believed to lead travelers astray."
+  },
+  {
+    "name": "Wyvern",
+    "slug": "wyvern",
+    "icon": "🐉",
+    "description": "A two-legged dragon with wings, often depicted as smaller than a full dragon."
+  },
+  {
+    "name": "Xorn",
+    "slug": "xorn",
+    "icon": "🗿",
+    "description": "A rocky elemental creature from Dungeons & Dragons, often depicted as having three arms and no legs."
+  },
+  {
+    "name": "Yeth Hound",
+    "slug": "yeth-hound",
+    "icon": "🐕‍🦺",
+    "description": "A spectral dog that haunts graveyards and hunts for lost souls."
+  },
+  {
+    "name": "Zilant",
+    "slug": "zilant",
+    "icon": "🐉",
+    "description": "A legendary creature from Tatar and Russian folklore, usually depicted as a winged serpent or dragon with a pair of legs."
+  },
+  {
+    "name": "Ankheg",
+    "slug": "ankheg",
+    "icon": "🐛",
+    "description": "Giant burrowing insect with sharp mandibles"
+  },
+  {
+    "name": "Barghest",
+    "slug": "barghest",
+    "icon": "🐺",
+    "description": "Demon dog that haunts graveyards and crossroads"
+  },
+  {
+    "name": "Catoblepas",
+    "slug": "catoblepas",
+    "icon": "🐮",
+    "description": "Huge, lethargic beast with deadly gaze"
+  },
+  {
+    "name": "Direwolf",
+    "slug": "direwolf",
+    "icon": "🐺",
+    "description": "Large and ferocious wolf, often found in colder climates"
+  },
+  {
+    "name": "Empusa",
+    "slug": "empusa",
+    "icon": "🦇",
+    "description": "Female demon or spirit with one leg of a donkey and one leg of bronze"
+  },
+  {
+    "name": "Frost Worm",
+    "slug": "frost-worm",
+    "icon": "🐉",
+    "description": "Massive, cold-dwelling worm with sharp teeth and icy breath"
+  },
+  {
+    "name": "Giant Scorpion",
+    "slug": "giant-scorpion",
+    "icon": "🦂",
+    "description": "Enormous arthropod with a venomous sting"
+  },
+  {
+    "name": "Homunculus",
+    "slug": "homunculus",
+    "icon": "🧑‍🔬",
+    "description": "Artificially created humanoid creature"
+  },
+  {
+    "name": "Illithid",
+    "slug": "illithid",
+    "icon": "🐙",
+    "description": "Psychic, tentacled humanoid creature"
+  },
+  {
+    "name": "Juggernaut",
+    "slug": "juggernaut",
+    "icon": "🦏",
+    "description": "Huge, unstoppable creature or force"
+  },
+  {
+    "name": "Kobold",
+    "slug": "kobold",
+    "icon": "🐲",
+    "description": "Small, reptilian humanoid often depicted as mischievous or malevolent"
+  },
+  {
+    "name": "Lamia",
+    "slug": "lamia",
+    "icon": "🐍",
+    "description": "Female monster with a human head and snake tail"
+  },
+  {
+    "name": "Megafauna",
+    "slug": "megafauna",
+    "icon": "🦕",
+    "description": "Giant prehistoric animals such as mammoths, sabre-toothed tigers, and dinosaurs"
+  },
+  {
+    "name": "Nightmare",
+    "slug": "nightmare",
+    "icon": "🐎",
+    "description": "Supernatural horse with flaming mane and eyes"
+  },
+  {
+    "name": "Ophidian",
+    "slug": "ophidian",
+    "icon": "🐍",
+    "description": "Snake-like creature or monster"
+  },
+  {
+    "name": "Peryton",
+    "slug": "peryton",
+    "icon": "🦌",
+    "description": "Mythical hybrid creature with the body of a deer and the wings and head of a bird"
+  },
+  {
+    "name": "Quetzalcoatlus",
+    "slug": "quetzalcoatlus",
+    "icon": "🦅",
+    "description": "A giant pterosaur with a wingspan of up to 33 feet."
+  },
+  {
+    "name": "Rat King",
+    "slug": "rat-king",
+    "icon": "🐀",
+    "description": "A group of rats whose tails are intertwined and stuck together."
+  },
+  {
+    "name": "Salamander",
+    "slug": "salamander",
+    "icon": "🦎",
+    "description": "An amphibian with a slender body and long tail, often brightly colored."
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Fire",
+    "slug": "fire",
+    "icon": "🔥",
+    "description": "Elemental power associated with flames and heat."
+  },
+  {
+    "name": "Water",
+    "slug": "water",
+    "icon": "💧",
+    "description": "Elemental power associated with fluidity and the ability to flow."
+  },
+  {
+    "name": "Air",
+    "slug": "air",
+    "icon": "💨",
+    "description": "Elemental power associated with the atmosphere and the ability to move through it."
+  },
+  {
+    "name": "Earth",
+    "slug": "earth",
+    "icon": "🌍",
+    "description": "Elemental power associated with the ground, rocks, and soil."
+  },
+  {
+    "name": "Lightning",
+    "slug": "lightning",
+    "icon": "⚡",
+    "description": "Elemental power associated with electricity and thunderbolts."
+  },
+  {
+    "name": "Ice",
+    "slug": "ice",
+    "icon": "🧊",
+    "description": "Elemental power associated with frozen water and low temperatures."
+  },
+  {
+    "name": "Nature",
+    "slug": "nature",
+    "icon": "🌿",
+    "description": "Elemental power associated with plants, animals, and the natural world."
+  },
+  {
+    "name": "Darkness",
+    "slug": "darkness",
+    "icon": "🌑",
+    "description": "Elemental power associated with shadows, the absence of light, and the unknown."
+  },
+  {
+    "name": "Light",
+    "slug": "light",
+    "icon": "💡",
+    "description": "Elemental power associated with illumination and radiance."
+  },
+  {
+    "name": "Metal",
+    "slug": "metal",
+    "icon": "🔩",
+    "description": "Elemental power associated with the strength and hardness of metal."
+  },
+  {
+    "name": "Shadow",
+    "slug": "shadow",
+    "icon": "👥",
+    "description": "Elemental power associated with darkness, obscurity, and stealth."
+  },
+  {
+    "name": "Blood",
+    "slug": "blood",
+    "icon": "🩸",
+    "description": "Elemental power associated with the life force and vitality."
+  },
+  {
+    "name": "Lava",
+    "slug": "lava",
+    "icon": "🌋",
+    "description": "Elemental power associated with molten rock and extreme heat."
+  },
+  {
+    "name": "Crystal",
+    "slug": "crystal",
+    "icon": "💎",
+    "description": "Elemental power associated with the beauty and purity of crystals."
+  },
+  {
+    "name": "Poison",
+    "slug": "poison",
+    "icon": "☠️",
+    "description": "Elemental power associated with toxins and harmful substances."
+  },
+  {
+    "name": "Time",
+    "slug": "time",
+    "icon": "⏰",
+    "description": "Elemental power associated with the passage and manipulation of time."
+  },
+  {
+    "name": "Space",
+    "slug": "space",
+    "icon": "🚀",
+    "description": "Elemental power associated with the vastness and mysteries of space."
+  },
+  {
+    "name": "Gravity",
+    "slug": "gravity",
+    "icon": "🪐",
+    "description": "Elemental power associated with the force of attraction between objects."
+  },
+  {
+    "name": "Sound",
+    "slug": "sound",
+    "icon": "🎶",
+    "description": "Ability to manipulate and control sound waves"
+  },
+  {
+    "name": "Electricity",
+    "slug": "electricity",
+    "icon": "⚡",
+    "description": "Ability to generate and manipulate electric currents"
+  },
+  {
+    "name": "Plasma",
+    "slug": "plasma",
+    "icon": "🔥",
+    "description": "Ability to manipulate ionized gas"
+  },
+  {
+    "name": "Radiation",
+    "slug": "radiation",
+    "icon": "☢️",
+    "description": "Ability to manipulate and emit various types of radiation"
+  },
+  {
+    "name": "Magma",
+    "slug": "magma",
+    "icon": "🌋",
+    "description": "Ability to control and manipulate molten rock"
+  },
+  {
+    "name": "Smoke",
+    "slug": "smoke",
+    "icon": "🌫️",
+    "description": "Ability to control and manipulate smoke and gas emissions"
+  },
+  {
+    "name": "Steam",
+    "slug": "steam",
+    "icon": "💨",
+    "description": "Ability to manipulate steam and water vapor"
+  },
+  {
+    "name": "Void",
+    "slug": "void",
+    "icon": "🕳️",
+    "description": "Ability to manipulate and control the void or emptiness"
+  },
+  {
+    "name": "Wind",
+    "slug": "wind",
+    "icon": "🌬️",
+    "description": "Ability to manipulate and control the wind"
+  },
+  {
+    "name": "Plantlife",
+    "slug": "plantlife",
+    "icon": "🌿",
+    "description": "Ability to control and manipulate plants and vegetation"
+  },
+  {
+    "name": "Moon",
+    "slug": "moon",
+    "icon": "🌙",
+    "description": "Ability to control and manipulate the powers of the moon"
+  },
+  {
+    "name": "Sun",
+    "slug": "sun",
+    "icon": "☀️",
+    "description": "Ability to control and manipulate the powers of the sun"
+  },
+  {
+    "name": "Stars",
+    "slug": "stars",
+    "icon": "✨",
+    "description": "Ability to control and manipulate the powers of the stars"
+  },
+  {
+    "name": "Sand",
+    "slug": "sand",
+    "icon": "🏜️",
+    "description": "Ability to manipulate and control sand and desert environments"
+  },
+  {
+    "name": "Ash",
+    "slug": "ash",
+    "icon": "🌫️",
+    "description": "Ability to manipulate and control ash and smoke"
+  },
+  {
+    "name": "Quicksand",
+    "slug": "quicksand",
+    "icon": "🌊",
+    "description": "Ability to control and manipulate quicksand and similar substances"
+  },
+  {
+    "name": "Frost",
+    "slug": "frost",
+    "icon": "❄️",
+    "description": "Ability to manipulate and control frost and ice"
+  },
+  {
+    "name": "Acid",
+    "slug": "acid",
+    "icon": "🧪",
+    "description": "Ability to generate and manipulate acidic substances"
+  },
+  {
+    "name": "Thunder",
+    "slug": "thunder",
+    "icon": "⚡",
+    "description": "Ability to control and manipulate thunder and lightning"
+  },
+  {
+    "name": "Psychic Energy",
+    "slug": "psychic-energy",
+    "icon": "🔮",
+    "description": "Ability to manipulate and generate psychic energy."
+  },
+  {
+    "name": "Dimensional Rift",
+    "slug": "dimensional-rift",
+    "icon": "🌀",
+    "description": "Ability to open portals to other dimensions."
+  },
+  {
+    "name": "Cosmic Dust",
+    "slug": "cosmic-dust",
+    "icon": "✨",
+    "description": "Ability to manipulate the cosmic dust that makes up the universe."
+  },
+  {
+    "name": "Spirit",
+    "slug": "spirit",
+    "icon": "👻",
+    "description": "Ability to communicate with and manipulate spirits of the dead."
+  },
+  {
+    "name": "Gravity Waves",
+    "slug": "gravity-waves",
+    "icon": "🌊",
+    "description": "Ability to manipulate and generate gravitational waves."
+  },
+  {
+    "name": "Invisibility",
+    "slug": "invisibility",
+    "icon": "👁️‍🗨️",
+    "description": "Ability to render oneself invisible to the naked eye."
+  },
+  {
+    "name": "Psychokinesis",
+    "slug": "psychokinesis",
+    "icon": "🌀",
+    "description": "Ability to move objects with one's mind."
+  },
+  {
+    "name": "Luminosity",
+    "slug": "luminosity",
+    "icon": "💡",
+    "description": "Ability to generate light and manipulate its intensity."
+  },
+  {
+    "name": "Chaos",
+    "slug": "chaos",
+    "icon": "🌪️",
+    "description": "Ability to manipulate chaos and disorder."
+  },
+  {
+    "name": "Magnetism",
+    "slug": "magnetism",
+    "icon": "🧲",
+    "description": "Ability to manipulate magnetic fields."
+  },
+  {
+    "name": "Antimatter",
+    "slug": "antimatter",
+    "icon": "⚛️",
+    "description": "Ability to manipulate and generate antimatter."
+  },
+  {
+    "name": "Pulse",
+    "slug": "pulse",
+    "icon": "💓",
+    "description": "Ability to generate and manipulate energy pulses."
+  },
+  {
+    "name": "Gravity Flux",
+    "slug": "gravity-flux",
+    "icon": "🌊",
+    "description": "Ability to manipulate gravity and create gravitational anomalies."
+  },
+  {
+    "name": "Echolocation",
+    "slug": "echolocation",
+    "icon": "🦇",
+    "description": "Ability to navigate and perceive the environment using sound waves."
+  },
+  {
+    "name": "Photosynthesis",
+    "slug": "photosynthesis",
+    "icon": "🌱",
+    "description": "Ability to generate and store energy from sunlight."
+  },
+  {
+    "name": "Radiance",
+    "slug": "radiance",
+    "icon": "💫",
+    "description": "Ability to emit and control radiant energy."
+  },
+  {
+    "name": "Oblivion",
+    "slug": "oblivion",
+    "icon": "☠️",
+    "description": "Ability to manipulate the void and the absence of existence."
+  },
+  {
+    "name": "Memory",
+    "slug": "memory",
+    "icon": "🧠",
+    "description": "Ability to manipulate and erase memories."
+  },
+  {
+    "name": "Gravity Well",
+    "slug": "gravity-well",
+    "icon": "🌌",
+    "description": "Ability to create and manipulate gravitational wells."
+  },
+  {
+    "name": "Nanobots",
+    "slug": "nanobots",
+    "icon": "🤖",
+    "description": "Ability to control and manipulate nanobots."
+  },
+  {
+    "name": "Nuclear Energy",
+    "slug": "nuclear-energy",
+    "icon": "☢️",
+    "description": "Ability to manipulate and generate nuclear energy."
+  },
+  {
+    "name": "Psionics",
+    "slug": "psionics",
+    "icon": "🧠",
+    "description": "Ability to manipulate and generate psionic energy."
+  },
+  {
+    "name": "Phase Shift",
+    "slug": "phase-shift",
+    "icon": "🌀",
+    "description": "Ability to shift through different phases or dimensions, allowing them to become intangible or teleport through solid objects."
+  }
+]

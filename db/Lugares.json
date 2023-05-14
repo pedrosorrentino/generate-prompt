@@ -1,0 +1,728 @@
+[
+  {
+    "name": "Underwater City",
+    "slug": "underwater-city",
+    "icon": "🌊",
+    "description": "A city built entirely underwater, with elaborate architecture and advanced technology."
+  },
+  {
+    "name": "Sky Castle",
+    "slug": "sky-castle",
+    "icon": "🏰",
+    "description": "A majestic castle floating high in the clouds, accessible only by air or magic."
+  },
+  {
+    "name": "Forest Temple",
+    "slug": "forest-temple",
+    "icon": "🌳",
+    "description": "A serene temple nestled deep within a lush forest, dedicated to ancient spirits and nature."
+  },
+  {
+    "name": "Haunted Mansion",
+    "slug": "haunted-mansion",
+    "icon": "👻",
+    "description": "A creepy mansion filled with ghostly apparitions, hidden passages, and dark secrets."
+  },
+  {
+    "name": "Crystal Cavern",
+    "slug": "crystal-cavern",
+    "icon": "💎",
+    "description": "A vast network of glittering crystal caves, home to rare minerals and magical crystals."
+  },
+  {
+    "name": "Ice Fortress",
+    "slug": "ice-fortress",
+    "icon": "🏰",
+    "description": "A massive fortress carved from solid ice, inhabited by fierce warriors and powerful sorcerers."
+  },
+  {
+    "name": "Volcano Lair",
+    "slug": "volcano-lair",
+    "icon": "🌋",
+    "description": "A dangerous lair located inside an active volcano, inhabited by a powerful and eccentric villain."
+  },
+  {
+    "name": "Cyber City",
+    "slug": "cyber-city",
+    "icon": "🏙️",
+    "description": "A sprawling metropolis of the future, filled with advanced technology, cybernetic enhancements, and neon lights."
+  },
+  {
+    "name": "Steam Punk Metropolis",
+    "slug": "steam-punk-metropolis",
+    "icon": "🏙️",
+    "description": "A bustling city powered by steam and clockwork, filled with gears, gadgets, and Victorian fashion."
+  },
+  {
+    "name": "Enchanted Garden",
+    "slug": "enchanted-garden",
+    "icon": "🌺",
+    "description": "A magical garden filled with exotic plants, enchanted creatures, and hidden portals to other worlds."
+  },
+  {
+    "name": "Dark Dimension",
+    "slug": "dark-dimension",
+    "icon": "🌑",
+    "description": "A bleak and foreboding dimension shrouded in darkness, inhabited by malevolent entities and eldritch horrors."
+  },
+  {
+    "name": "Celestial Palace",
+    "slug": "celestial-palace",
+    "icon": "🏰",
+    "description": "A heavenly palace floating among the stars, home to divine beings and mystical artifacts."
+  },
+  {
+    "name": "Underground Tunnels",
+    "slug": "underground-tunnels",
+    "icon": "🚇",
+    "description": "A vast network of tunnels and catacombs hidden beneath the earth, filled with treasure, danger, and mystery."
+  },
+  {
+    "name": "Frozen Wasteland",
+    "slug": "frozen-wasteland",
+    "icon": "❄️",
+    "description": "A desolate and frozen wasteland, home to fierce beasts and hidden ruins buried in the ice."
+  },
+  {
+    "name": "Desert Oasis",
+    "slug": "desert-oasis",
+    "icon": "🏜️",
+    "description": "An oasis in the middle of the desert, surrounded by sand dunes and palm trees."
+  },
+  {
+    "name": "Jungle Ruins",
+    "slug": "jungle-ruins",
+    "icon": "🌿",
+    "description": "Ancient ruins hidden deep in the jungle, covered in vines and moss."
+  },
+  {
+    "name": "Floating Island",
+    "slug": "floating-island",
+    "icon": "☁️",
+    "description": "A magical island floating in the sky, only accessible by airship or magic."
+  },
+  {
+    "name": "Time Warp",
+    "slug": "time-warp",
+    "icon": "⏰",
+    "description": "A rift in time and space, allowing travel to different eras and dimensions."
+  },
+  {
+    "name": "Alien Planet",
+    "slug": "alien-planet",
+    "icon": "👽",
+    "description": "A planet inhabited by strange and alien creatures, with landscapes beyond imagination."
+  },
+  {
+    "name": "Deep Space Station",
+    "slug": "deep-space-station",
+    "icon": "🚀",
+    "description": "A massive space station, serving as a hub for interstellar travel and exploration."
+  },
+  {
+    "name": "Magical Academy",
+    "slug": "magical-academy",
+    "icon": "🧙",
+    "description": "A school for witches and wizards, where magic is taught and practiced."
+  },
+  {
+    "name": "Futuristic Laboratory",
+    "slug": "futuristic-laboratory",
+    "icon": "🔬",
+    "description": "A cutting-edge laboratory, conducting experiments and developing new technologies."
+  },
+  {
+    "name": "Ancient Library",
+    "slug": "ancient-library",
+    "icon": "📚",
+    "description": "A vast library, filled with ancient tomes and forgotten knowledge."
+  },
+  {
+    "name": "Artificial Intelligence Network",
+    "slug": "artificial-intelligence-network",
+    "icon": "🤖",
+    "description": "A network of artificial intelligence systems, controlling everything from factories to cities."
+  },
+  {
+    "name": "Giant's Lair",
+    "slug": "giants-lair",
+    "icon": "🗻",
+    "description": "A massive lair belonging to a giant, filled with treasure and danger."
+  },
+  {
+    "name": "Chaos Realm",
+    "slug": "chaos-realm",
+    "icon": "🌀",
+    "description": "A dimension of pure chaos, where reality is constantly shifting and unpredictable."
+  },
+  {
+    "name": "Fairy Tale Castle",
+    "slug": "fairy-tale-castle",
+    "icon": "🏰",
+    "description": "A castle straight out of a fairy tale, with towering spires and magical gardens."
+  },
+  {
+    "name": "Post-Apocalyptic City",
+    "slug": "post-apocalyptic-city",
+    "icon": "☢️",
+    "description": "A city ravaged by a catastrophic event, struggling to survive in a harsh new world."
+  },
+  {
+    "name": "Interdimensional Nexus",
+    "slug": "interdimensional-nexus",
+    "icon": "🌀",
+    "description": "A hub where multiple dimensions intersect."
+  },
+  {
+    "name": "Dreamscape",
+    "slug": "dreamscape",
+    "icon": "💭",
+    "description": "A world that exists within the dreams of sentient beings."
+  },
+  {
+    "name": "Abandoned Asylum",
+    "slug": "abandoned-asylum",
+    "icon": "🏥",
+    "description": "A former hospital for the mentally ill that has been left to decay."
+  },
+  {
+    "name": "Sunken Ship",
+    "slug": "sunken-ship",
+    "icon": "🚢",
+    "description": "A vessel that has sunk to the ocean floor."
+  },
+  {
+    "name": "Forbidden Temple",
+    "slug": "forbidden-temple",
+    "icon": "🙅",
+    "description": "A sacred place that is off-limits to the general public."
+  },
+  {
+    "name": "Lost City",
+    "slug": "lost-city",
+    "icon": "🌆",
+    "description": "An ancient urban center that has been abandoned and forgotten."
+  },
+  {
+    "name": "Parallel Universe",
+    "slug": "parallel-universe",
+    "icon": "👥",
+    "description": "A hypothetical world that exists alongside our own."
+  },
+  {
+    "name": "Mystic Marsh",
+    "slug": "mystic-marsh",
+    "icon": "🌿",
+    "description": "A wetland with supernatural properties."
+  },
+  {
+    "name": "Parallel World",
+    "slug": "parallel-world",
+    "icon": "🌍",
+    "description": "An alternate version of our own world."
+  },
+  {
+    "name": "Underground Kingdom",
+    "slug": "underground-kingdom",
+    "icon": "👑",
+    "description": "A subterranean realm ruled by a monarch."
+  },
+  {
+    "name": "Dark Forest",
+    "slug": "dark-forest",
+    "icon": "🌲",
+    "description": "A dense woodland shrouded in darkness and mystery."
+  },
+  {
+    "name": "Crystal Palace",
+    "slug": "crystal-palace",
+    "icon": "💎",
+    "description": "An opulent palace made of crystal."
+  },
+  {
+    "name": "Cursed Island",
+    "slug": "cursed-island",
+    "icon": "🏝️",
+    "description": "An island that is believed to be cursed or haunted."
+  },
+  {
+    "name": "Rainbow Valley",
+    "slug": "rainbow-valley",
+    "icon": "🌈",
+    "description": "A colorful valley with a natural rainbow."
+  },
+  {
+    "name": "Fire Mountain",
+    "slug": "fire-mountain",
+    "icon": "🌋",
+    "description": "A volcano that is actively erupting."
+  },
+  {
+    "name": "Hidden Cave",
+    "slug": "hidden-cave",
+    "icon": "🕳️",
+    "description": "A concealed cavern that is difficult to find."
+  },
+  {
+    "name": "Sky Kingdom",
+    "slug": "sky-kingdom",
+    "icon": "☁️",
+    "description": "A kingdom that floats in the clouds."
+  },
+  {
+    "name": "Savage Wilds",
+    "slug": "savage-wilds",
+    "icon": "🌳",
+    "description": "A dangerous and untamed wilderness full of predators and natural hazards."
+  },
+  {
+    "name": "Mystical Mountain",
+    "slug": "mystical-mountain",
+    "icon": "⛰️",
+    "description": "A towering peak shrouded in mystery, with ancient ruins and hidden treasures waiting to be discovered."
+  },
+  {
+    "name": "Ancient Pyramid",
+    "slug": "ancient-pyramid",
+    "icon": "🔺",
+    "description": "A monumental structure from a long-forgotten civilization, filled with traps and secrets."
+  },
+  {
+    "name": "Tropical Beach",
+    "slug": "tropical-beach",
+    "icon": "🏖️",
+    "description": "A paradise of white sands, crystal-clear waters, and swaying palm trees."
+  },
+  {
+    "name": "Elemental Plane",
+    "slug": "elemental-plane",
+    "icon": "🔥",
+    "description": "A realm of pure elemental energy, where fire, water, air, and earth collide."
+  },
+  {
+    "name": "Outer Space Colony",
+    "slug": "outer-space-colony",
+    "icon": "🚀",
+    "description": "A colony of humans and aliens living in space, struggling to survive in the void."
+  },
+  {
+    "name": "Underground Bunker",
+    "slug": "underground-bunker",
+    "icon": "🕳️",
+    "description": "A hidden fortress built deep beneath the earth, designed to protect its inhabitants from disaster."
+  },
+  {
+    "name": "Lunar Base",
+    "slug": "lunar-base",
+    "icon": "🌕",
+    "description": "A scientific outpost on the surface of the moon, studying the mysteries of the cosmos."
+  },
+  {
+    "name": "Forgotten Citadel",
+    "slug": "forgotten-citadel",
+    "icon": "🏰",
+    "description": "An ancient fortress, abandoned and overrun by monsters and dark forces."
+  },
+  {
+    "name": "Ancient Catacombs",
+    "slug": "ancient-catacombs",
+    "icon": "💀",
+    "description": "A network of tunnels and tombs deep beneath the earth, haunted by the restless dead."
+  },
+  {
+    "name": "Holographic Theme Park",
+    "slug": "holographic-theme-park",
+    "icon": "🎢",
+    "description": "A virtual amusement park filled with holographic attractions and thrilling rides."
+  },
+  {
+    "name": "Crystal Lake",
+    "slug": "crystal-lake",
+    "icon": "🌊",
+    "description": "A shimmering lake of pure crystal, surrounded by a magical forest."
+  },
+  {
+    "name": "Floating Market",
+    "slug": "floating-market",
+    "icon": "🛍️",
+    "description": "A bustling marketplace that floats on the surface of the water, selling exotic goods from all over the world."
+  },
+  {
+    "name": "Underground Volcano",
+    "slug": "underground-volcano",
+    "icon": "🌋",
+    "description": "A fiery inferno hidden deep beneath the earth, with molten lava and scorching heat."
+  },
+  {
+    "name": "Abandoned Space Station",
+    "slug": "abandoned-space-station",
+    "icon": "🚀",
+    "description": "Once a thriving hub of activity in the galaxy, now a desolate and eerie reminder of a forgotten era."
+  },
+  {
+    "name": "Surreal Landscape",
+    "slug": "surreal-landscape",
+    "icon": "🎨",
+    "description": "A bizarre and otherworldly environment that defies the laws of physics and leaves visitors feeling disoriented."
+  },
+  {
+    "name": "Crystal Tower",
+    "slug": "crystal-tower",
+    "icon": "💎",
+    "description": "A towering structure made entirely of shimmering crystals, imbued with ancient magic and mystery."
+  },
+  {
+    "name": "Mystical Island",
+    "slug": "mystical-island",
+    "icon": "🏝️",
+    "description": "A secluded island paradise steeped in legends and enchantment, accessible only to those who know the way."
+  },
+  {
+    "name": "Mysterious Labyrinth",
+    "slug": "mysterious-labyrinth",
+    "icon": "🌀",
+    "description": "A twisting and turning maze of tunnels and chambers, shrouded in darkness and riddles."
+  },
+  {
+    "name": "Jungle Canopy",
+    "slug": "jungle-canopy",
+    "icon": "🌴",
+    "description": "A lush and verdant canopy high above the forest floor, teeming with life and adventure."
+  },
+  {
+    "name": "Enchanted Marketplace",
+    "slug": "enchanted-marketplace",
+    "icon": "🛍️",
+    "description": "A bustling and magical marketplace filled with wares and wonders from across the realms."
+  },
+  {
+    "name": "Sunken Cityscape",
+    "slug": "sunken-cityscape",
+    "icon": "🌊",
+    "description": "A once-great city that now lies beneath the waves, waiting to be explored and discovered."
+  },
+  {
+    "name": "Haunted Forest",
+    "slug": "haunted-forest",
+    "icon": "👻",
+    "description": "A foreboding and spooky forest where the trees seem to whisper and shadows lurk around every corner."
+  },
+  {
+    "name": "Space Elevator",
+    "slug": "space-elevator",
+    "icon": "🪝",
+    "description": "A towering elevator that extends into the void of space, allowing for easy access to the stars above."
+  },
+  {
+    "name": "Crystal Lagoon",
+    "slug": "crystal-lagoon",
+    "icon": "💎🌊",
+    "description": "A tranquil lagoon filled with crystal-clear water, surrounded by a sparkling shoreline of precious gems."
+  },
+  {
+    "name": "Magma Chamber",
+    "slug": "magma-chamber",
+    "icon": "🔥",
+    "description": "A fiery and dangerous chamber deep within the earth, where molten lava and volcanic activity rule supreme."
+  },
+  {
+    "name": "Thundering Waterfall",
+    "slug": "thundering-waterfall",
+    "icon": "🌊💥",
+    "description": "A colossal waterfall that cascades down from great heights, rumbling and thundering as it crashes to the bottom."
+  },
+  {
+    "name": "Ethereal Valley",
+    "slug": "ethereal-valley",
+    "icon": "🏞️",
+    "description": "A serene and otherworldly valley where the boundaries between reality and fantasy seem to blur."
+  },
+  {
+    "name": "Abandoned Subway System",
+    "slug": "abandoned-subway-system",
+    "icon": "🚇",
+    "description": "An underground network of tunnels and tracks that once carried millions of passengers, now deserted and forgotten."
+  },
+  {
+    "name": "Mirrored City",
+    "slug": "mirrored-city",
+    "icon": "🏙️",
+    "description": "A shimmering cityscape made entirely of reflective surfaces, where the boundaries between reality and illusion are blurred."
+  },
+  {
+    "name": "Ancient Citadel",
+    "slug": "ancient-citadel",
+    "icon": "🏰",
+    "description": "Explore the ruins of an old fortress and uncover its mysterious past."
+  },
+  {
+    "name": "Frozen Tundra",
+    "slug": "frozen-tundra",
+    "icon": "❄️",
+    "description": "Brave the icy wilderness and discover the secrets hidden in the snow."
+  },
+  {
+    "name": "Haunted Amusement Park",
+    "slug": "haunted-amusement-park",
+    "icon": "🎡",
+    "description": "Experience the thrills and chills of an abandoned carnival full of ghostly apparitions."
+  },
+  {
+    "name": "Sunken Ruins",
+    "slug": "sunken-ruins",
+    "icon": "🌊",
+    "description": "Dive deep into the ocean to uncover the remnants of an ancient civilization."
+  },
+  {
+    "name": "Enchanted Castle",
+    "slug": "enchanted-castle",
+    "icon": "🏰",
+    "description": "Discover a magical kingdom ruled by a powerful sorcerer and his enchanted court."
+  },
+  {
+    "name": "Sandswept Canyon",
+    "slug": "sandswept-canyon",
+    "icon": "🏜️",
+    "description": "Trek through a desert canyon full of shifting sands and hidden treasures."
+  },
+  {
+    "name": "Orbital Station",
+    "slug": "orbital-station",
+    "icon": "🛰️",
+    "description": "Embark on a journey to the stars and explore a space station orbiting a distant planet."
+  },
+  {
+    "name": "Lost Wilderness",
+    "slug": "lost-wilderness",
+    "icon": "🌳",
+    "description": "Get lost in a dense forest filled with ancient ruins and dangerous wildlife."
+  },
+  {
+    "name": "Aurora Borealis",
+    "slug": "aurora-borealis",
+    "icon": "🌌",
+    "description": "Marvel at the beauty of the northern lights and the wonders of the cosmos."
+  },
+  {
+    "name": "Giant Redwood Forest",
+    "slug": "giant-redwood-forest",
+    "icon": "🌳",
+    "description": "Explore a forest of towering redwood trees and discover the secrets hidden within."
+  },
+  {
+    "name": "Futuristic Casino",
+    "slug": "futuristic-casino",
+    "icon": "🎰",
+    "description": "Step into a world of high-tech gambling and cutting-edge entertainment."
+  },
+  {
+    "name": "Mythical Underworld",
+    "slug": "mythical-underworld",
+    "icon": "🔱",
+    "description": "Descend into the underworld and confront the creatures of myth and legend."
+  },
+  {
+    "name": "Infinite Desert",
+    "slug": "infinite-desert",
+    "icon": "🏜️",
+    "description": "Brave an endless expanse of sand and heat, where nothing is as it seems."
+  },
+  {
+    "name": "Mystical Labyrinth",
+    "slug": "mystical-labyrinth",
+    "icon": "🌀",
+    "description": "Navigate a maze of magic and mystery, where every turn leads to a new challenge."
+  },
+  {
+    "name": "Galactic Gateway",
+    "slug": "galactic-gateway",
+    "icon": "🚀",
+    "description": "Travel to the edge of the universe and step through a gateway to other worlds."
+  },
+  {
+    "name": "Submerged Cavern",
+    "slug": "submerged-cavern",
+    "icon": "🌊",
+    "description": "A hidden cavern lying beneath the ocean's surface, filled with mysterious creatures and treasures waiting to be discovered."
+  },
+  {
+    "name": "Eternal Ice Fields",
+    "slug": "eternal-ice-fields",
+    "icon": "❄️",
+    "description": "A vast expanse of frozen tundra and ice, where the cold and isolation make for a breathtaking but harsh landscape."
+  },
+  {
+    "name": "Dark Matter Realm",
+    "slug": "dark-matter-realm",
+    "icon": "🌌",
+    "description": "A place where the rules of physics break down and the very fabric of reality is warped, revealing the mysteries of the universe."
+  },
+  {
+    "name": "Holographic City",
+    "slug": "holographic-city",
+    "icon": "🏙️",
+    "description": "A city of the future where the buildings and streets are made of light, and virtual reality blurs the line between what is real and what is not."
+  },
+  {
+    "name": "Celestial Observatory",
+    "slug": "celestial-observatory",
+    "icon": "🔭",
+    "description": "A place where astronomers and stargazers can marvel at the beauty and complexity of the universe, and explore the mysteries of the cosmos."
+  },
+  {
+    "name": "Nebula Cluster",
+    "slug": "nebula-cluster",
+    "icon": "🪐",
+    "description": "A collection of interstellar clouds of dust and gas, where stars are born and galaxies collide, creating breathtaking colors and patterns."
+  },
+  {
+    "name": "Glacier National Park",
+    "slug": "glacier-national-park",
+    "icon": "🏔️",
+    "description": "A stunningly beautiful park with towering mountains, deep valleys, and vast glaciers, providing a home for a wide variety of plants and animals."
+  },
+  {
+    "name": "Undiscovered Island",
+    "slug": "undiscovered-island",
+    "icon": "🏝️",
+    "description": "A place shrouded in mystery and waiting to be explored, filled with hidden treasures and secrets waiting to be uncovered."
+  },
+  {
+    "name": "Underground Laboratory",
+    "slug": "underground-laboratory",
+    "icon": "🔬",
+    "description": "A secret laboratory hidden deep beneath the earth, where scientists conduct cutting-edge experiments and research into the unknown."
+  },
+  {
+    "name": "Retro Arcade",
+    "slug": "retro-arcade",
+    "icon": "🕹️",
+    "description": "A blast from the past, where classic video games and pinball machines fill the air with the sounds of beeps, boops, and ringing bells."
+  },
+  {
+    "name": "Crystal Gardens",
+    "slug": "crystal-gardens",
+    "icon": "💎",
+    "description": "A beautiful garden filled with shimmering crystals of all colors and sizes, creating a dazzling display of light and beauty."
+  },
+  {
+    "name": "Chromatic Coastline",
+    "slug": "chromatic-coastline",
+    "icon": "🌈",
+    "description": "A coastline filled with colorful rock formations and vibrant flora, where the sea meets the land in a dazzling display of color."
+  },
+  {
+    "name": "Iridescent Reef",
+    "slug": "iridescent-reef",
+    "icon": "🐠",
+    "description": "A vibrant coral reef filled with colorful fish and other marine life."
+  },
+  {
+    "name": "Lunar Colony",
+    "slug": "lunar-colony",
+    "icon": "🚀",
+    "description": "A human settlement established on the surface of the Moon."
+  },
+  {
+    "name": "Rainforest Canopy",
+    "slug": "rainforest-canopy",
+    "icon": "🌴",
+    "description": "The uppermost layer of a dense forest, characterized by tall trees and abundant foliage."
+  },
+  {
+    "name": "Hyperborean Forest",
+    "slug": "hyperborean-forest",
+    "icon": "🌲",
+    "description": "A mythical forest located in the far north, said to be home to magical creatures and ancient spirits."
+  },
+  {
+    "name": "Tesseract Station",
+    "slug": "tesseract-station",
+    "icon": "🌀",
+    "description": "A space station built using advanced technology that allows it to exist in multiple dimensions simultaneously."
+  },
+  {
+    "name": "Magnetic Caves",
+    "slug": "magnetic-caves",
+    "icon": "⚡️",
+    "description": "A system of underground caves where the rock formations exhibit strong magnetic properties."
+  },
+  {
+    "name": "Abyssal Trench",
+    "slug": "abyssal-trench",
+    "icon": "🌊",
+    "description": "The deepest part of the ocean, characterized by extreme pressure, darkness, and unique species adapted to its environment."
+  },
+  {
+    "name": "Interstellar Hub",
+    "slug": "interstellar-hub",
+    "icon": "🚀",
+    "description": "A central hub for space travel, where ships can refuel, repair, and trade goods and information."
+  },
+  {
+    "name": "Exoplanet Outpost",
+    "slug": "exoplanet-outpost",
+    "icon": "🪐",
+    "description": "A human settlement established on a planet orbiting a star other than the Sun."
+  },
+  {
+    "name": "Emerald Canyon",
+    "slug": "emerald-canyon",
+    "icon": "💎",
+    "description": "A canyon with greenish-hued rock walls and possibly a river or stream flowing through it."
+  },
+  {
+    "name": "Spectral Sands",
+    "slug": "spectral-sands",
+    "icon": "🌈",
+    "description": "A beach or desert with sand that reflects a variety of colors."
+  },
+  {
+    "name": "Lost Oasis",
+    "slug": "lost-oasis",
+    "icon": "🌴",
+    "description": "An isolated and hidden oasis in a barren desert landscape."
+  },
+  {
+    "name": "Nebula Nebula",
+    "slug": "nebula-nebula",
+    "icon": "🌌",
+    "description": "A massive cloud of gas and dust in space, possibly with multiple layers or sub-regions."
+  },
+  {
+    "name": "Astral Nexus",
+    "slug": "astral-nexus",
+    "icon": "✨",
+    "description": "A point in space where multiple dimensions or realities intersect."
+  },
+  {
+    "name": "Radiant Cityscape",
+    "slug": "radiant-cityscape",
+    "icon": "🏙️",
+    "description": "A futuristic cityscape with vibrant colors and advanced technology."
+  },
+  {
+    "name": "Euphoric Eden",
+    "slug": "euphoric-eden",
+    "icon": "🌺",
+    "description": "A lush and vibrant garden or paradise with a peaceful and joyful atmosphere."
+  },
+  {
+    "name": "Pixelated Wonderland",
+    "slug": "pixelated-wonderland",
+    "icon": "🎮",
+    "description": "A world that looks like it was taken out of a retro video game, with bright colors, blocky graphics, and all sorts of quirky characters and obstacles."
+  },
+  {
+    "name": "Clockwork Metropolis",
+    "slug": "clockwork-metropolis",
+    "icon": "🕰️",
+    "description": "A sprawling city made of metal and gears, with clockwork machinery everywhere. The people who live here are skilled engineers and artisans, who build and maintain the complex systems that keep the city running like clockwork."
+  },
+  {
+    "name": "Ethereal Plane",
+    "slug": "ethereal-plane",
+    "icon": "💫",
+    "description": "A realm that exists outside of normal reality, where everything is made of pure energy and light. Strange beings and phenomena can be found here, and the very fabric of space and time is in constant flux."
+  }
+]

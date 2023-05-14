@@ -1,0 +1,224 @@
+[
+  {
+    "name": "Warm Color Palette",
+    "slug": "warm-color-palette",
+    "icon": "🎨",
+    "description": "A color scheme dominated by warm colors such as red, orange, and yellow, often associated with energy and passion."
+  },
+  {
+    "name": "Colorful",
+    "slug": "colorful",
+    "icon": "🌈",
+    "description": "A broad term used to describe an image that features many different colors, often bright and vibrant."
+  },
+  {
+    "name": "Rainbow",
+    "slug": "rainbow",
+    "icon": "🌈",
+    "description": "A natural spectrum of colors that appears in the sky when the sun shines onto droplets of moisture in the Earth's atmosphere."
+  },
+  {
+    "name": "Spectral Color",
+    "slug": "spectral-color",
+    "icon": "🌈",
+    "description": "A color that is part of the visible spectrum of light, as opposed to colors that can only be perceived as a mixture of other colors."
+  },
+  {
+    "name": "Inverted Colors",
+    "slug": "inverted-colors",
+    "icon": "🌑",
+    "description": "An image in which the colors have been reversed, so that what was once light is now dark and vice versa."
+  },
+  {
+    "name": "Neon",
+    "slug": "neon",
+    "icon": "💡",
+    "description": "A bright, vibrant color scheme that is often associated with the distinctive glow of neon lights."
+  },
+  {
+    "name": "Electric Colors",
+    "slug": "electric-colors",
+    "icon": "⚡",
+    "description": "A vivid, bright color scheme that is often associated with electricity and energy."
+  },
+  {
+    "name": "Complimentary-Colors",
+    "slug": "complimentary-colors",
+    "icon": "🔴🟢",
+    "description": "Pairs of colors that are opposite each other on the color wheel, such as red and green, that can create a striking contrast when used together."
+  },
+  {
+    "name": "Dark Mode",
+    "slug": "dark-mode",
+    "icon": "🌙",
+    "description": "A color scheme that uses predominantly dark colors for the background and lighter colors for text and other foreground elements."
+  },
+  {
+    "name": "Triadic-Colors",
+    "slug": "triadic-colors",
+    "icon": "🔴🔵🟢",
+    "description": "A color scheme that uses three colors that are evenly spaced around the color wheel, such as red, blue, and green."
+  },
+  {
+    "name": "Polychromatic Colors",
+    "slug": "polychromatic-colors",
+    "icon": "🎨",
+    "description": "A color scheme that uses multiple colors, often with no one color dominating the others."
+  },
+  {
+    "name": "Tones of Black",
+    "slug": "tones-of-black",
+    "icon": "⬛",
+    "description": "A color scheme that uses various shades and tints of black, from pure black to dark grays and charcoal."
+  },
+  {
+    "name": "Black and White",
+    "slug": "black-and-white",
+    "icon": "🖤⚪️",
+    "description": "A style of using only black and white colors to create an image."
+  },
+  {
+    "name": "Monochrome",
+    "slug": "monochrome",
+    "icon": "🎨👤",
+    "description": "A style that uses shades of a single color to create an image."
+  },
+  {
+    "name": "Sepia",
+    "slug": "sepia",
+    "icon": "📜👴",
+    "description": "A style that uses a brownish-grey tint to create a vintage effect."
+  },
+  {
+    "name": "High Contrast",
+    "slug": "high-contrast",
+    "icon": "🔳🔲",
+    "description": "A style that emphasizes the difference between light and dark tones in an image."
+  },
+  {
+    "name": "Low Contrast",
+    "slug": "low-contrast",
+    "icon": "🔳🔳",
+    "description": "A style that has little difference between light and dark tones in an image."
+  },
+  {
+    "name": "Technicolor",
+    "slug": "technicolor",
+    "icon": "🌈🎥",
+    "description": "A color film process that produced vibrant colors in movies during the mid-20th century."
+  },
+  {
+    "name": "Atari Graphics",
+    "slug": "atari-graphics",
+    "icon": "🕹️👾",
+    "description": "The visual style of graphics used in Atari video games during the 1970s and 1980s."
+  },
+  {
+    "name": "Adobe RGB",
+    "slug": "adobe-rgb",
+    "icon": "🖥️🎨",
+    "description": "A color space used in digital imaging that provides a wider range of colors than sRGB."
+  },
+  {
+    "name": "Hexadecimal",
+    "slug": "hexadecimal",
+    "icon": "🔢🔡",
+    "description": "A base-16 number system used in computing that is commonly used to represent colors."
+  },
+  {
+    "name": "Vintage",
+    "slug": "vintage",
+    "icon": "👴🏻📷",
+    "description": "A style that imitates the look and feel of old photographs or designs from a previous era."
+  },
+  {
+    "name": "Red",
+    "slug": "red",
+    "icon": "🔴",
+    "description": "A bright and intense color associated with passion, love, and energy."
+  },
+  {
+    "name": "Blue",
+    "slug": "blue",
+    "icon": "🔵",
+    "description": "A calm and soothing color associated with stability, trust, and loyalty."
+  },
+  {
+    "name": "Green",
+    "slug": "green",
+    "icon": "🟢",
+    "description": "A fresh and natural color associated with growth, harmony, and health."
+  },
+  {
+    "name": "Yellow",
+    "slug": "yellow",
+    "icon": "🟡",
+    "description": "A bright and cheerful color associated with happiness, warmth, and optimism."
+  },
+  {
+    "name": "Purple",
+    "slug": "purple",
+    "icon": "🟣",
+    "description": "A rich and luxurious color associated with creativity, wisdom, and spirituality."
+  },
+  {
+    "name": "Orange",
+    "slug": "orange",
+    "icon": "🟠",
+    "description": "A warm and vibrant color associated with excitement, enthusiasm, and creativity."
+  },
+  {
+    "name": "Pink",
+    "slug": "pink",
+    "icon": "💗",
+    "description": "A sweet and playful color associated with love, romance, and femininity."
+  },
+  {
+    "name": "Brown",
+    "slug": "brown",
+    "icon": "🟤",
+    "description": "A natural and earthy color associated with stability, comfort, and warmth."
+  },
+  {
+    "name": "Gray",
+    "slug": "gray",
+    "icon": "⚪",
+    "description": "A neutral and sophisticated color associated with balance, calm, and wisdom."
+  },
+  {
+    "name": "Black",
+    "slug": "black",
+    "icon": "⚫",
+    "description": "A powerful and elegant color associated with strength, mystery, and sophistication."
+  },
+  {
+    "name": "Turquoise",
+    "slug": "turquoise",
+    "icon": "🟦",
+    "description": "A refreshing and calming color associated with the ocean and tranquility."
+  },
+  {
+    "name": "Magenta",
+    "slug": "magenta",
+    "icon": "🟣",
+    "description": "A bold and vibrant color associated with creativity and uniqueness."
+  },
+  {
+    "name": "Teal",
+    "slug": "teal",
+    "icon": "🟢",
+    "description": "A cool and refreshing color associated with balance and sophistication."
+  },
+  {
+    "name": "Lavender",
+    "slug": "lavender",
+    "icon": "🟣",
+    "description": "A gentle and delicate color associated with grace and elegance."
+  },
+  {
+    "name": "Gold",
+    "slug": "gold",
+    "icon": "🟡",
+    "description": "A rich and opulent color associated with wealth and prosperity."
+  }
+]

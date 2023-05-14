@@ -1,0 +1,134 @@
+[
+  {
+    "name": "Unreal Engine",
+    "slug": "ureal-engine",
+    "icon": "🖥️",
+    "description": "Very realistic and detailed 3D."
+  },
+  {
+    "name": "Vray",
+    "slug": "vray",
+    "icon": "🎞️",
+    "description": "3D rendering best for objects, landscape and building."
+  },
+  {
+    "name": "Full HD",
+    "slug": "full-hd",
+    "icon": "🖥️",
+    "description": "1920x1080 resolution, commonly used for desktop wallpapers and YouTube videos."
+  },
+  {
+    "name": "4K Ultra HD",
+    "slug": "4k-ultra-hd",
+    "icon": "🎞️",
+    "description": "3840x2160 resolution, ideal for high-resolution displays and video production."
+  },
+  {
+    "name": "720p HD",
+    "slug": "720p-hd",
+    "icon": "📺",
+    "description": "1280x720 resolution, commonly used for HD video streaming and gaming."
+  },
+  {
+    "name": "1080p Full HD",
+    "slug": "1080p-full-hd",
+    "icon": "🖥️",
+    "description": "1920x1080 resolution, commonly used for high-definition video production and playback."
+  },
+  {
+    "name": "1440p Quad HD",
+    "slug": "1440p-quad-hd",
+    "icon": "🔍",
+    "description": "2560x1440 resolution, ideal for gaming, editing, and design work on high-resolution monitors."
+  },
+  {
+    "name": "8K Ultra HD",
+    "slug": "8k-ultra-hd",
+    "icon": "🎥",
+    "description": "7680x4320 resolution, the highest resolution currently available for consumer-grade displays."
+  },
+  {
+    "name": "Instagram",
+    "slug": "instagram",
+    "icon": "📷",
+    "description": "1080x1080 resolution, commonly used for Instagram photos and stories."
+  },
+  {
+    "name": "Square",
+    "slug": "square",
+    "icon": "⬜",
+    "description": "A resolution of equal width and height, commonly used for social media posts and profile pictures."
+  },
+  {
+    "name": "Portrait",
+    "slug": "portrait",
+    "icon": "👤",
+    "description": "Vertical orientation with a resolution typically used for portraits and mobile screens."
+  },
+  {
+    "name": "Landscape",
+    "slug": "landscape",
+    "icon": "🌄",
+    "description": "Horizontal orientation with a resolution typically used for landscapes, banners, and websites."
+  },
+  {
+    "name": "5K",
+    "slug": "5k",
+    "icon": "🖼️",
+    "description": "5120x2880 resolution, ideal for large displays and high-resolution photo and video editing."
+  },
+  {
+    "name": "Ultra-wide",
+    "slug": "ultra-wide",
+    "icon": "👀",
+    "description": "A resolution with an aspect ratio wider than 16:9, commonly used for gaming, video editing, and multitasking."
+  },
+  {
+    "name": "Cinemascope",
+    "slug": "cinemascope",
+    "icon": "🎥",
+    "description": "A widescreen resolution with an aspect ratio of 2.35:1, commonly used for movies and video production."
+  },
+  {
+    "name": "Square Instagram",
+    "slug": "square-instagram",
+    "icon": "📷",
+    "description": "1080x1080 resolution, specifically optimized for Instagram square posts."
+  },
+  {
+    "name": "Pinterest",
+    "slug": "pinterest",
+    "icon": "📌",
+    "description": "1000x1500 resolution, commonly used for Pinterest pins."
+  },
+  {
+    "name": "WXGA",
+    "slug": "wxga",
+    "icon": "🖥️",
+    "description": "1280x800 resolution, commonly used for widescreen computer monitors and laptops."
+  },
+  {
+    "name": "SXGA",
+    "slug": "sxga",
+    "icon": "🖥️",
+    "description": "1280x1024 resolution, commonly used for computer monitors and gaming displays."
+  },
+  {
+    "name": "QXGA",
+    "slug": "qxga",
+    "icon": "🖥️",
+    "description": "2048x1536 resolution, commonly used for computer monitors and graphic design work."
+  },
+  {
+    "name": "Ultrawide QHD",
+    "slug": "ultrawide-qhd",
+    "icon": "👀",
+    "description": "3440x1440 resolution, a widescreen resolution commonly used for gaming and video editing."
+  },
+  {
+    "name": "Snapchat",
+    "slug": "snapchat",
+    "icon": "👻",
+    "description": "1080x1920 resolution, specifically optimized for Snapchat photos and videos."
+  }
+]
